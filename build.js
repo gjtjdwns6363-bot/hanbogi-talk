@@ -62,7 +62,7 @@ const FOOTER = `<footer>© ${NAME} · <a href="/">전체 언어</a> · <a href="
 
 function page({ url, title, desc, body, head = '', ogTitle }) {
   return `<!doctype html>
-<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="naver-site-verification" content="57e798764c5c0e2131487475e7707cc966fa54ba">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${SITE}${url}">
