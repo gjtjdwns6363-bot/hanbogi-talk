@@ -1,0 +1,609 @@
+[
+ {
+  "id": "hello",
+  "text": "Halo, selamat pagi.",
+  "roman": "Halo, selamat pagi.",
+  "kr": "할로, 슬라맛 빠기",
+  "note": "오전 11시까지 pagi, 오후 3시까지 siang(시앙), 해질녘까지 sore(소레), 밤엔 malam(말람)으로 바꿔요."
+ },
+ {
+  "id": "thanks",
+  "text": "Terima kasih.",
+  "roman": "Terima kasih.",
+  "kr": "뜨리마 까시",
+  "note": "상대를 높이려면 끝에 Pak(빡, 남성)이나 Bu(부, 여성)를 붙여요."
+ },
+ {
+  "id": "thanks-very",
+  "text": "Terima kasih banyak.",
+  "roman": "Terima kasih banyak.",
+  "kr": "뜨리마 까시 바냑"
+ },
+ {
+  "id": "sorry",
+  "text": "Maaf.",
+  "roman": "Maaf.",
+  "kr": "마압",
+  "note": "진지한 사과는 \"Mohon maaf.\"(모혼 마압)라고 해요."
+ },
+ {
+  "id": "excuse-me",
+  "text": "Permisi.",
+  "roman": "Permisi.",
+  "kr": "뻐르미시",
+  "note": "사람 사이를 지나갈 때나 말을 걸 때 모두 써요."
+ },
+ {
+  "id": "yes",
+  "text": "Ya.",
+  "roman": "Ya.",
+  "kr": "야"
+ },
+ {
+  "id": "no",
+  "text": "Tidak, terima kasih.",
+  "roman": "Tidak, terima kasih.",
+  "kr": "띠닥, 뜨리마 까시",
+  "note": "호객을 거절할 때 웃으며 이렇게 말하면 부드러워요."
+ },
+ {
+  "id": "goodbye",
+  "text": "Sampai jumpa.",
+  "roman": "Sampai jumpa.",
+  "kr": "삼빠이 줌빠",
+  "note": "가게를 나설 땐 \"Mari.\"(마리) 또는 \"Terima kasih\"만 해도 자연스러워요."
+ },
+ {
+  "id": "nice-to-meet",
+  "text": "Senang bertemu dengan Anda.",
+  "roman": "Senang bertemu dengan Anda.",
+  "kr": "스낭 버르뜨무 등안 안다"
+ },
+ {
+  "id": "im-korean",
+  "text": "Saya orang Korea.",
+  "roman": "Saya orang Korea.",
+  "kr": "사야 오랑 코레아",
+  "note": "\"Dari Korea Selatan.\"(다리 코레아 슬라딴, 한국에서 왔어요)도 자주 써요."
+ },
+ {
+  "id": "dont-understand",
+  "text": "Maaf, saya tidak mengerti.",
+  "roman": "Maaf, saya tidak mengerti.",
+  "kr": "마압, 사야 띠닥 믕어르띠"
+ },
+ {
+  "id": "speak-english",
+  "text": "Bisa bahasa Inggris?",
+  "roman": "Bisa bahasa Inggris?",
+  "kr": "비사 바하사 잉그리스?",
+  "note": "발리 관광지에서는 대부분 영어가 통해요."
+ },
+ {
+  "id": "slowly",
+  "text": "Tolong bicara pelan-pelan.",
+  "roman": "Tolong bicara pelan-pelan.",
+  "kr": "똘롱 비짜라 쁠란 쁠란"
+ },
+ {
+  "id": "again",
+  "text": "Bisa diulang lagi?",
+  "roman": "Bisa diulang lagi?",
+  "kr": "비사 디울랑 라기?"
+ },
+ {
+  "id": "its-ok",
+  "text": "Tidak apa-apa.",
+  "roman": "Tidak apa-apa.",
+  "kr": "띠닥 아빠 아빠",
+  "note": "구어로는 \"Nggak apa-apa\"(응각 아빠 아빠)라고도 해요."
+ },
+ {
+  "id": "passport",
+  "text": "Ini paspor saya.",
+  "roman": "Ini paspor saya.",
+  "kr": "이니 빠스뽀르 사야"
+ },
+ {
+  "id": "sightseeing",
+  "text": "Saya datang untuk berwisata.",
+  "roman": "Saya datang untuk berwisata.",
+  "kr": "사야 다땅 운뚝 버르위사따",
+  "note": "입국 심사는 영어로 해도 되니 \"Holiday.\"(할러데이)라고 답해도 충분해요."
+ },
+ {
+  "id": "stay-days",
+  "text": "Saya tinggal lima hari.",
+  "roman": "Saya tinggal lima hari.",
+  "kr": "사야 띵갈 리마 하리",
+  "note": "숫자만 바꿔 쓰세요: tiga(띠가) 3, tujuh(뚜주) 7, sepuluh(스뿔루) 10."
+ },
+ {
+  "id": "hotel-stay",
+  "text": "Saya menginap di hotel.",
+  "roman": "Saya menginap di hotel.",
+  "kr": "사야 믕이납 디 호텔"
+ },
+ {
+  "id": "baggage-claim",
+  "text": "Tempat ambil bagasi di mana?",
+  "roman": "Tempat ambil bagasi di mana?",
+  "kr": "뜸빳 암빌 바가시 디 마나?"
+ },
+ {
+  "id": "lost-baggage",
+  "text": "Bagasi saya tidak keluar.",
+  "roman": "Bagasi saya tidak keluar.",
+  "kr": "바가시 사야 띠닥 끌루아르",
+  "note": "수하물 태그를 보여 주면 빨라요."
+ },
+ {
+  "id": "exchange",
+  "text": "Tukar uang di mana?",
+  "roman": "Tukar uang di mana?",
+  "kr": "뚜까르 우앙 디 마나?",
+  "note": "발리는 공인 환전소(Authorized Money Changer) 간판이 있는 곳을 쓰세요."
+ },
+ {
+  "id": "sim-card",
+  "text": "Beli kartu SIM di mana?",
+  "roman": "Beli kartu SIM di mana?",
+  "kr": "블리 까르뚜 심 디 마나?",
+  "note": "외국인 유심은 공항 매장에서 여권으로 등록해야 해요."
+ },
+ {
+  "id": "wifi",
+  "text": "Password Wi-Fi-nya apa?",
+  "roman": "Password Wi-Fi-nya apa?",
+  "kr": "빠스워르 와이파이냐 아빠?",
+  "note": "Wi-Fi는 '위피'라고 읽는 사람도 많아요."
+ },
+ {
+  "id": "checkin-counter",
+  "text": "Konter check-in di mana?",
+  "roman": "Konter check-in di mana?",
+  "kr": "꼰뜨르 체끼인 디 마나?"
+ },
+ {
+  "id": "taxi-stand",
+  "text": "Naik taksi di mana?",
+  "roman": "Naik taksi di mana?",
+  "kr": "나익 딱시 디 마나?",
+  "note": "공항에서는 공식 택시 카운터나 Grab·Gojek 픽업 존을 이용하세요."
+ },
+ {
+  "id": "go-here",
+  "text": "Tolong antar ke sini.",
+  "roman": "Tolong antar ke sini.",
+  "kr": "똘롱 안따르 끄 시니",
+  "note": "지도나 주소를 보여 주면서 말하세요."
+ },
+ {
+  "id": "how-long",
+  "text": "Berapa lama?",
+  "roman": "Berapa lama?",
+  "kr": "브라빠 라마?"
+ },
+ {
+  "id": "stop-here",
+  "text": "Berhenti di sini, ya.",
+  "roman": "Berhenti di sini, ya.",
+  "kr": "버르흔띠 디 시니, 야",
+  "note": "기사에게는 짧게 \"Stop di sini, Pak.\"(스똡 디 시니, 빡)도 잘 통해요."
+ },
+ {
+  "id": "meter",
+  "text": "Tolong pakai argo, ya.",
+  "roman": "Tolong pakai argo, ya.",
+  "kr": "똘롱 빠까이 아르고, 야",
+  "note": "미터기는 argo(아르고)라고 해요. 블루버드 택시가 미터기를 잘 켜요."
+ },
+ {
+  "id": "station-where",
+  "text": "Stasiun di mana?",
+  "roman": "Stasiun di mana?",
+  "kr": "스따시운 디 마나?"
+ },
+ {
+  "id": "ticket-one",
+  "text": "Tiket satu, ya.",
+  "roman": "Tiket satu, ya.",
+  "kr": "띠껫 사뚜, 야",
+  "note": "자카르타 전철(KRL·MRT)은 교통카드로 타는 게 편해요."
+ },
+ {
+  "id": "this-train",
+  "text": "Kereta ini ke ○○?",
+  "roman": "Kereta ini ke ○○?",
+  "kr": "끄레따 이니 끄 ○○?"
+ },
+ {
+  "id": "bus-stop",
+  "text": "Halte bus di mana?",
+  "roman": "Halte bus di mana?",
+  "kr": "할뜨 부스 디 마나?"
+ },
+ {
+  "id": "transfer",
+  "text": "Ganti kereta di mana?",
+  "roman": "Ganti kereta di mana?",
+  "kr": "간띠 끄레따 디 마나?",
+  "note": "버스라면 kereta 대신 bus(부스)라고 하세요."
+ },
+ {
+  "id": "airport-go",
+  "text": "Ke bandara, ya.",
+  "roman": "Ke bandara, ya.",
+  "kr": "끄 반다라, 야"
+ },
+ {
+  "id": "fare",
+  "text": "Ongkosnya berapa?",
+  "roman": "Ongkosnya berapa?",
+  "kr": "옹꼬스냐 브라빠?",
+  "note": "흥정 택시는 타기 전에 요금을 먼저 정하세요."
+ },
+ {
+  "id": "reservation",
+  "text": "Saya sudah pesan.",
+  "roman": "Saya sudah pesan.",
+  "kr": "사야 수다 쁘산",
+  "note": "이어서 \"atas nama ○○\"(아따스 나마 ○○)로 예약자 이름을 말하세요."
+ },
+ {
+  "id": "checkin",
+  "text": "Saya mau check-in.",
+  "roman": "Saya mau check-in.",
+  "kr": "사야 마우 체끼인"
+ },
+ {
+  "id": "checkout",
+  "text": "Saya mau check-out.",
+  "roman": "Saya mau check-out.",
+  "kr": "사야 마우 체까웃"
+ },
+ {
+  "id": "checkout-time",
+  "text": "Check-out jam berapa?",
+  "roman": "Check-out jam berapa?",
+  "kr": "체까웃 잠 브라빠?"
+ },
+ {
+  "id": "keep-luggage",
+  "text": "Bisa titip koper?",
+  "roman": "Bisa titip koper?",
+  "kr": "비사 띠띱 꼬뻐르?"
+ },
+ {
+  "id": "towel",
+  "text": "Minta handuk lagi, ya.",
+  "roman": "Minta handuk lagi, ya.",
+  "kr": "민따 한둑 라기, 야"
+ },
+ {
+  "id": "aircon-broken",
+  "text": "AC-nya tidak dingin.",
+  "roman": "AC-nya tidak dingin.",
+  "kr": "아세냐 띠닥 딩인",
+  "note": "에어컨은 AC(아세)라고 해요. 아예 안 켜지면 \"AC-nya mati\"(아세냐 마띠)."
+ },
+ {
+  "id": "no-hot-water",
+  "text": "Air panasnya tidak keluar.",
+  "roman": "Air panasnya tidak keluar.",
+  "kr": "아이르 빠나스냐 띠닥 끌루아르"
+ },
+ {
+  "id": "room-key",
+  "text": "Kunci kamar saya hilang.",
+  "roman": "Kunci kamar saya hilang.",
+  "kr": "꾼찌 까마르 사야 힐랑"
+ },
+ {
+  "id": "breakfast-time",
+  "text": "Sarapan jam berapa?",
+  "roman": "Sarapan jam berapa?",
+  "kr": "사라빤 잠 브라빠?"
+ },
+ {
+  "id": "late-checkout",
+  "text": "Bisa late check-out?",
+  "roman": "Bisa late check-out?",
+  "kr": "비사 레잇 체까웃?"
+ },
+ {
+  "id": "clean-room",
+  "text": "Tolong bersihkan kamar saya.",
+  "roman": "Tolong bersihkan kamar saya.",
+  "kr": "똘롱 버르시깐 까마르 사야"
+ },
+ {
+  "id": "table-two",
+  "text": "Dua orang.",
+  "roman": "Dua orang.",
+  "kr": "두아 오랑",
+  "note": "손가락으로 인원수를 같이 보여 주면 확실해요."
+ },
+ {
+  "id": "menu-please",
+  "text": "Minta menunya, ya.",
+  "roman": "Minta menunya, ya.",
+  "kr": "민따 메누냐, 야"
+ },
+ {
+  "id": "recommend",
+  "text": "Yang enak apa?",
+  "roman": "Yang enak apa?",
+  "kr": "양 에낙 아빠?",
+  "note": "더 정중하게는 \"Menu andalannya apa?\"(메누 안달란냐 아빠?)라고 해요."
+ },
+ {
+  "id": "this-one",
+  "text": "Saya mau yang ini.",
+  "roman": "Saya mau yang ini.",
+  "kr": "사야 마우 양 이니",
+  "note": "메뉴를 손가락으로 가리키면서 말하세요."
+ },
+ {
+  "id": "not-spicy",
+  "text": "Jangan pedas, ya.",
+  "roman": "Jangan pedas, ya.",
+  "kr": "장안 쁘다스, 야",
+  "note": "삼발(sambal) 소스를 빼 달라면 \"Tanpa sambal\"(딴빠 삼발)."
+ },
+ {
+  "id": "no-cilantro",
+  "text": "Jangan pakai daun ketumbar, ya.",
+  "roman": "Jangan pakai daun ketumbar, ya.",
+  "kr": "장안 빠까이 다운 끄뚬바르, 야",
+  "note": "인도네시아 음식엔 고수가 많지 않지만 쌀국수·태국 음식점에서 유용해요."
+ },
+ {
+  "id": "allergy",
+  "text": "Saya alergi ○○.",
+  "roman": "Saya alergi ○○.",
+  "kr": "사야 알레르기 ○○",
+  "note": "예: kacang(까짱, 땅콩), udang(우당, 새우), susu(수수, 우유)."
+ },
+ {
+  "id": "water",
+  "text": "Minta air putih, ya.",
+  "roman": "Minta air putih, ya.",
+  "kr": "민따 아이르 뿌띠, 야",
+  "note": "수돗물은 마시지 말고 병물(air mineral, 아이르 미네랄)을 드세요."
+ },
+ {
+  "id": "delicious",
+  "text": "Enak sekali!",
+  "roman": "Enak sekali!",
+  "kr": "에낙 스깔리!"
+ },
+ {
+  "id": "bill",
+  "text": "Minta bonnya, ya.",
+  "roman": "Minta bonnya, ya.",
+  "kr": "민따 본냐, 야",
+  "note": "손으로 서명하는 시늉을 하며 \"Bill, please\"라고 해도 통해요."
+ },
+ {
+  "id": "card-ok",
+  "text": "Bisa bayar pakai kartu?",
+  "roman": "Bisa bayar pakai kartu?",
+  "kr": "비사 바야르 빠까이 까르뚜?",
+  "note": "작은 식당(warung)은 현금만 받는 곳이 많아요."
+ },
+ {
+  "id": "takeout",
+  "text": "Dibungkus, ya.",
+  "roman": "Dibungkus, ya.",
+  "kr": "디붕꾸스, 야"
+ },
+ {
+  "id": "beer",
+  "text": "Bir satu botol, ya.",
+  "roman": "Bir satu botol, ya.",
+  "kr": "비르 사뚜 보똘, 야",
+  "note": "발리에서는 \"Bintang satu\"(빈땅 사뚜)라고 브랜드명으로 많이 시켜요."
+ },
+ {
+  "id": "restroom",
+  "text": "Toiletnya di mana?",
+  "roman": "Toiletnya di mana?",
+  "kr": "또일렛냐 디 마나?",
+  "note": "\"Kamar kecil di mana?\"(까마르 끄찔 디 마나?)도 같은 뜻이에요."
+ },
+ {
+  "id": "separate",
+  "text": "Bayarnya sendiri-sendiri, ya.",
+  "roman": "Bayarnya sendiri-sendiri, ya.",
+  "kr": "바야르냐 슨디리 슨디리, 야"
+ },
+ {
+  "id": "how-much",
+  "text": "Berapa harganya?",
+  "roman": "Berapa harganya?",
+  "kr": "브라빠 하르가냐?",
+  "note": "짧게 \"Berapa?\"(브라빠?)만 해도 통해요."
+ },
+ {
+  "id": "discount",
+  "text": "Bisa kurang?",
+  "roman": "Bisa kurang?",
+  "kr": "비사 꾸랑?",
+  "note": "시장에서는 부른 값의 절반쯤부터 웃으며 흥정하세요."
+ },
+ {
+  "id": "too-expensive",
+  "text": "Mahal sekali.",
+  "roman": "Mahal sekali.",
+  "kr": "마할 스깔리"
+ },
+ {
+  "id": "look-around",
+  "text": "Lihat-lihat saja.",
+  "roman": "Lihat-lihat saja.",
+  "kr": "리핫 리핫 사자"
+ },
+ {
+  "id": "try-on",
+  "text": "Boleh dicoba?",
+  "roman": "Boleh dicoba?",
+  "kr": "볼레 디쪼바?"
+ },
+ {
+  "id": "other-size",
+  "text": "Ada ukuran lain?",
+  "roman": "Ada ukuran lain?",
+  "kr": "아다 우꾸란 라인?"
+ },
+ {
+  "id": "other-color",
+  "text": "Ada warna lain?",
+  "roman": "Ada warna lain?",
+  "kr": "아다 와르나 라인?"
+ },
+ {
+  "id": "take-this",
+  "text": "Saya ambil yang ini.",
+  "roman": "Saya ambil yang ini.",
+  "kr": "사야 암빌 양 이니"
+ },
+ {
+  "id": "tax-refund",
+  "text": "Bisa tax refund?",
+  "roman": "Bisa tax refund?",
+  "kr": "비사 택스 리펀?",
+  "note": "'Tax Free' 표시가 있는 매장에서만 되니 여권을 함께 보여 주세요."
+ },
+ {
+  "id": "bag",
+  "text": "Minta kantong plastik, ya.",
+  "roman": "Minta kantong plastik, ya.",
+  "kr": "민따 깐똥 쁠라스띡, 야",
+  "note": "발리는 비닐봉지 사용이 금지라 장바구니를 챙기면 좋아요."
+ },
+ {
+  "id": "receipt",
+  "text": "Minta struknya, ya.",
+  "roman": "Minta struknya, ya.",
+  "kr": "민따 스뜨룩냐, 야"
+ },
+ {
+  "id": "where-is",
+  "text": "○○ di mana?",
+  "roman": "○○ di mana?",
+  "kr": "○○ 디 마나?",
+  "note": "앞에 \"Permisi,\"(뻐르미시)를 붙이면 더 정중해요."
+ },
+ {
+  "id": "lost",
+  "text": "Saya tersesat.",
+  "roman": "Saya tersesat.",
+  "kr": "사야 떠르스삿"
+ },
+ {
+  "id": "far",
+  "text": "Jauh dari sini?",
+  "roman": "Jauh dari sini?",
+  "kr": "자우 다리 시니?"
+ },
+ {
+  "id": "walk",
+  "text": "Bisa jalan kaki ke sana?",
+  "roman": "Bisa jalan kaki ke sana?",
+  "kr": "비사 잘란 까끼 끄 사나?"
+ },
+ {
+  "id": "map-show",
+  "text": "Tolong tunjukkan di peta.",
+  "roman": "Tolong tunjukkan di peta.",
+  "kr": "똘롱 뚠죽깐 디 쁘따",
+  "note": "휴대폰 지도를 내밀면서 말하세요."
+ },
+ {
+  "id": "photo",
+  "text": "Bisa tolong fotokan kami?",
+  "roman": "Bisa tolong fotokan kami?",
+  "kr": "비사 똘롱 포또깐 까미?",
+  "note": "혼자라면 kami 대신 saya(사야)라고 하세요."
+ },
+ {
+  "id": "convenience",
+  "text": "Minimarket di mana?",
+  "roman": "Minimarket di mana?",
+  "kr": "미니마르껫 디 마나?",
+  "note": "편의점은 Indomaret(인도마렛)·Alfamart(알파마르트)가 가장 흔해요."
+ },
+ {
+  "id": "near-here",
+  "text": "Ada di dekat sini?",
+  "roman": "Ada di dekat sini?",
+  "kr": "아다 디 드깟 시니?"
+ },
+ {
+  "id": "help",
+  "text": "Tolong!",
+  "roman": "Tolong!",
+  "kr": "똘롱!"
+ },
+ {
+  "id": "police",
+  "text": "Tolong panggil polisi!",
+  "roman": "Tolong panggil polisi!",
+  "kr": "똘롱 빵길 뽈리시!",
+  "note": "인도네시아 경찰 긴급 번호는 110, 통합 긴급 번호는 112예요."
+ },
+ {
+  "id": "hospital",
+  "text": "Rumah sakit di mana?",
+  "roman": "Rumah sakit di mana?",
+  "kr": "루마 사낏 디 마나?"
+ },
+ {
+  "id": "sick",
+  "text": "Saya sakit.",
+  "roman": "Saya sakit.",
+  "kr": "사야 사낏"
+ },
+ {
+  "id": "stomachache",
+  "text": "Perut saya sakit.",
+  "roman": "Perut saya sakit.",
+  "kr": "쁘룻 사야 사낏",
+  "note": "발리에서 흔한 배탈을 'Bali belly'라고 불러요."
+ },
+ {
+  "id": "pharmacy",
+  "text": "Apotek di mana?",
+  "roman": "Apotek di mana?",
+  "kr": "아뽀떽 디 마나?",
+  "note": "Guardian·Kimia Farma 같은 체인 약국이 곳곳에 있어요."
+ },
+ {
+  "id": "lost-passport",
+  "text": "Paspor saya hilang.",
+  "roman": "Paspor saya hilang.",
+  "kr": "빠스뽀르 사야 힐랑",
+  "note": "경찰서에서 분실 신고서(surat kehilangan)를 먼저 받아 두세요."
+ },
+ {
+  "id": "stolen",
+  "text": "Dompet saya dicuri.",
+  "roman": "Dompet saya dicuri.",
+  "kr": "돔뻿 사야 디쭈리"
+ },
+ {
+  "id": "embassy",
+  "text": "Tolong hubungi Kedutaan Besar Korea.",
+  "roman": "Tolong hubungi Kedutaan Besar Korea.",
+  "kr": "똘롱 후붕이 끄두따안 브사르 코레아",
+  "note": "주인도네시아 한국대사관은 자카르타에 있고, 영사콜센터(+82-2-3210-0404)는 24시간이에요."
+ },
+ {
+  "id": "ambulance",
+  "text": "Tolong panggil ambulans!",
+  "roman": "Tolong panggil ambulans!",
+  "kr": "똘롱 빵길 암불란스!",
+  "note": "구급차 번호는 118 또는 119예요."
+ }
+]

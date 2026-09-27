@@ -1,0 +1,611 @@
+[
+ {
+  "id": "hello",
+  "text": "Hello.",
+  "roman": "Hello.",
+  "kr": "헬로우",
+  "note": "가볍게는 \"Hi.\"(하이)도 어디서나 통해요."
+ },
+ {
+  "id": "thanks",
+  "text": "Thank you.",
+  "roman": "Thank you.",
+  "kr": "땡큐",
+  "note": "가볍게 \"Thanks!\"(땡스)라고 해도 돼요."
+ },
+ {
+  "id": "thanks-very",
+  "text": "Thank you so much.",
+  "roman": "Thank you so much.",
+  "kr": "땡큐 쏘 머치"
+ },
+ {
+  "id": "sorry",
+  "text": "I'm sorry.",
+  "roman": "I'm sorry.",
+  "kr": "아임 쏘리",
+  "note": "부딪혔을 때처럼 가벼운 사과는 \"Sorry!\"만으로 충분해요."
+ },
+ {
+  "id": "excuse-me",
+  "text": "Excuse me.",
+  "roman": "Excuse me.",
+  "kr": "익스큐즈 미",
+  "note": "사람을 부르거나 비켜 달라고 할 때 모두 써요."
+ },
+ {
+  "id": "yes",
+  "text": "Yes.",
+  "roman": "Yes.",
+  "kr": "예스"
+ },
+ {
+  "id": "no",
+  "text": "No, thank you.",
+  "roman": "No, thank you.",
+  "kr": "노우, 땡큐",
+  "note": "거절할 때 \"No\" 뒤에 \"thank you\"를 붙이면 훨씬 부드러워요."
+ },
+ {
+  "id": "goodbye",
+  "text": "Goodbye. Have a nice day.",
+  "roman": "Goodbye. Have a nice day.",
+  "kr": "굿바이. 해버 나이스 데이",
+  "note": "가게를 나설 때는 \"Have a nice day!\"만 해도 자연스러워요."
+ },
+ {
+  "id": "nice-to-meet",
+  "text": "Nice to meet you.",
+  "roman": "Nice to meet you.",
+  "kr": "나이스 투 밋 츄"
+ },
+ {
+  "id": "im-korean",
+  "text": "I'm from Korea.",
+  "roman": "I'm from Korea.",
+  "kr": "아임 프럼 코리아",
+  "note": "Korea는 '코리아'보다 '커리-아'처럼 가운데 '리'를 세게 말하면 잘 통해요."
+ },
+ {
+  "id": "dont-understand",
+  "text": "Sorry, I don't understand.",
+  "roman": "Sorry, I don't understand.",
+  "kr": "쏘리, 아이 돈트 언더스땐드"
+ },
+ {
+  "id": "speak-english",
+  "text": "Do you speak English?",
+  "roman": "Do you speak English?",
+  "kr": "두 유 스삐크 잉글리시?"
+ },
+ {
+  "id": "slowly",
+  "text": "Could you speak more slowly, please?",
+  "roman": "Could you speak more slowly, please?",
+  "kr": "쿠쥬 스삐크 모어 슬로울리, 플리즈?"
+ },
+ {
+  "id": "again",
+  "text": "Could you say that again, please?",
+  "roman": "Could you say that again, please?",
+  "kr": "쿠쥬 쎄이 댓 어겐, 플리즈?",
+  "note": "짧게 \"Sorry?\"(쏘리↗)라고 끝을 올려 말해도 돼요."
+ },
+ {
+  "id": "its-ok",
+  "text": "It's okay.",
+  "roman": "It's okay.",
+  "kr": "잇츠 오우케이",
+  "note": "사과를 받을 때는 \"No problem.\"(노 프라블럼)도 자주 써요."
+ },
+ {
+  "id": "passport",
+  "text": "Here's my passport.",
+  "roman": "Here's my passport.",
+  "kr": "히어즈 마이 패스포트"
+ },
+ {
+  "id": "sightseeing",
+  "text": "I'm here for sightseeing.",
+  "roman": "I'm here for sightseeing.",
+  "kr": "아임 히어 포 싸잇씽",
+  "note": "입국 심사에서 목적을 물으면 짧게 \"Sightseeing.\"만 답해도 돼요."
+ },
+ {
+  "id": "stay-days",
+  "text": "I'm staying for five days.",
+  "roman": "I'm staying for five days.",
+  "kr": "아임 스떼잉 포 파이브 데이즈",
+  "note": "숫자만 바꿔 쓰세요: three(쓰리), seven(쎄븐), ten(텐)."
+ },
+ {
+  "id": "hotel-stay",
+  "text": "I'm staying at a hotel.",
+  "roman": "I'm staying at a hotel.",
+  "kr": "아임 스떼잉 앳 어 호우텔",
+  "note": "hotel은 '호텔'이 아니라 뒤의 '텔'에 힘을 줘요."
+ },
+ {
+  "id": "baggage-claim",
+  "text": "Where is baggage claim?",
+  "roman": "Where is baggage claim?",
+  "kr": "웨어 이즈 배기지 클레임?"
+ },
+ {
+  "id": "lost-baggage",
+  "text": "My luggage didn't come out.",
+  "roman": "My luggage didn't come out.",
+  "kr": "마이 러기지 디든 컴 아웃",
+  "note": "수하물 태그(baggage tag)를 보여 주면 빨라요."
+ },
+ {
+  "id": "exchange",
+  "text": "Where can I exchange money?",
+  "roman": "Where can I exchange money?",
+  "kr": "웨어 캔 아이 익스체인지 머니?"
+ },
+ {
+  "id": "sim-card",
+  "text": "Where can I buy a SIM card?",
+  "roman": "Where can I buy a SIM card?",
+  "kr": "웨어 캔 아이 바이 어 씸 카드?",
+  "note": "'유심'은 한국식 표현이라 SIM card(씸 카드)라고 해야 통해요."
+ },
+ {
+  "id": "wifi",
+  "text": "What's the Wi-Fi password?",
+  "roman": "What's the Wi-Fi password?",
+  "kr": "왓츠 더 와이파이 패스워드?"
+ },
+ {
+  "id": "checkin-counter",
+  "text": "Where is the check-in counter?",
+  "roman": "Where is the check-in counter?",
+  "kr": "웨어 이즈 더 체킨 카운터?",
+  "note": "항공사 이름을 붙여 \"Where is the ○○ Air counter?\"라고 해도 돼요."
+ },
+ {
+  "id": "taxi-stand",
+  "text": "Where can I get a taxi?",
+  "roman": "Where can I get a taxi?",
+  "kr": "웨어 캔 아이 겟 어 택씨?"
+ },
+ {
+  "id": "go-here",
+  "text": "Please take me here.",
+  "roman": "Please take me here.",
+  "kr": "플리즈 테익 미 히어",
+  "note": "지도나 주소를 보여 주면서 말하세요."
+ },
+ {
+  "id": "how-long",
+  "text": "How long does it take?",
+  "roman": "How long does it take?",
+  "kr": "하우 롱 더짓 테익?"
+ },
+ {
+  "id": "stop-here",
+  "text": "Please stop here.",
+  "roman": "Please stop here.",
+  "kr": "플리즈 스땁 히어",
+  "note": "\"Right here is fine.\"(라잇 히어 이즈 파인)도 자연스러워요."
+ },
+ {
+  "id": "meter",
+  "text": "Could you turn on the meter, please?",
+  "roman": "Could you turn on the meter, please?",
+  "kr": "쿠쥬 턴 온 더 미터, 플리즈?",
+  "note": "미국식으로 meter는 '미러'처럼 들려요."
+ },
+ {
+  "id": "station-where",
+  "text": "Where is the station?",
+  "roman": "Where is the station?",
+  "kr": "웨어 이즈 더 스떼이션?",
+  "note": "지하철역은 subway station(써브웨이 스떼이션)이라고 하면 확실해요."
+ },
+ {
+  "id": "ticket-one",
+  "text": "One ticket, please.",
+  "roman": "One ticket, please.",
+  "kr": "원 티킷, 플리즈"
+ },
+ {
+  "id": "this-train",
+  "text": "Does this train go to ○○?",
+  "roman": "Does this train go to ○○?",
+  "kr": "더즈 디스 트레인 고우 투 ○○?"
+ },
+ {
+  "id": "bus-stop",
+  "text": "Where is the bus stop?",
+  "roman": "Where is the bus stop?",
+  "kr": "웨어 이즈 더 버스 스땁?"
+ },
+ {
+  "id": "transfer",
+  "text": "Where do I transfer?",
+  "roman": "Where do I transfer?",
+  "kr": "웨어 두 아이 트랜스퍼?",
+  "note": "\"Where do I change trains?\"(체인지 트레인즈)도 같은 뜻이에요."
+ },
+ {
+  "id": "airport-go",
+  "text": "To the airport, please.",
+  "roman": "To the airport, please.",
+  "kr": "투 디 에어포트, 플리즈"
+ },
+ {
+  "id": "fare",
+  "text": "How much is the fare?",
+  "roman": "How much is the fare?",
+  "kr": "하우 머치 이즈 더 페어?",
+  "note": "택시에서는 짧게 \"How much?\"만 해도 돼요."
+ },
+ {
+  "id": "reservation",
+  "text": "I have a reservation.",
+  "roman": "I have a reservation.",
+  "kr": "아이 해버 레저베이션",
+  "note": "이어서 \"under ○○\"(언더 ○○)로 예약자 이름을 말하세요."
+ },
+ {
+  "id": "checkin",
+  "text": "I'd like to check in, please.",
+  "roman": "I'd like to check in, please.",
+  "kr": "아이드 라익 투 체킨, 플리즈"
+ },
+ {
+  "id": "checkout",
+  "text": "I'd like to check out, please.",
+  "roman": "I'd like to check out, please.",
+  "kr": "아이드 라익 투 체카웃, 플리즈"
+ },
+ {
+  "id": "checkout-time",
+  "text": "What time is checkout?",
+  "roman": "What time is checkout?",
+  "kr": "왓 타임 이즈 체카웃?"
+ },
+ {
+  "id": "keep-luggage",
+  "text": "Could you keep my luggage, please?",
+  "roman": "Could you keep my luggage, please?",
+  "kr": "쿠쥬 킵 마이 러기지, 플리즈?",
+  "note": "체크아웃 후 맡길 때는 끝에 \"until ○ o'clock\"(언틸 ○ 어클락)을 붙여요."
+ },
+ {
+  "id": "towel",
+  "text": "Could I get some more towels?",
+  "roman": "Could I get some more towels?",
+  "kr": "쿠다이 겟 썸 모어 타월즈?"
+ },
+ {
+  "id": "aircon-broken",
+  "text": "The air conditioner isn't working.",
+  "roman": "The air conditioner isn't working.",
+  "kr": "디 에어 컨디셔너 이즌트 워킹",
+  "note": "미국에서는 짧게 AC(에이씨)라고도 해요."
+ },
+ {
+  "id": "no-hot-water",
+  "text": "There's no hot water.",
+  "roman": "There's no hot water.",
+  "kr": "데어즈 노우 핫 워러"
+ },
+ {
+  "id": "room-key",
+  "text": "I lost my room key.",
+  "roman": "I lost my room key.",
+  "kr": "아이 로스트 마이 룸 키",
+  "note": "카드키는 key card(키 카드)라고 해요."
+ },
+ {
+  "id": "breakfast-time",
+  "text": "What time is breakfast?",
+  "roman": "What time is breakfast?",
+  "kr": "왓 타임 이즈 브렉퍼스트?"
+ },
+ {
+  "id": "late-checkout",
+  "text": "Can I get a late checkout?",
+  "roman": "Can I get a late checkout?",
+  "kr": "캔 아이 겟 어 레잇 체카웃?"
+ },
+ {
+  "id": "clean-room",
+  "text": "Could you clean my room, please?",
+  "roman": "Could you clean my room, please?",
+  "kr": "쿠쥬 클린 마이 룸, 플리즈?"
+ },
+ {
+  "id": "table-two",
+  "text": "A table for two, please.",
+  "roman": "A table for two, please.",
+  "kr": "어 테이블 포 투, 플리즈",
+  "note": "손가락으로 인원수를 같이 보여 주면 확실해요."
+ },
+ {
+  "id": "menu-please",
+  "text": "Can I see the menu, please?",
+  "roman": "Can I see the menu, please?",
+  "kr": "캔 아이 씨 더 메뉴, 플리즈?"
+ },
+ {
+  "id": "recommend",
+  "text": "What do you recommend?",
+  "roman": "What do you recommend?",
+  "kr": "왓 두 유 레커멘드?"
+ },
+ {
+  "id": "this-one",
+  "text": "I'll have this, please.",
+  "roman": "I'll have this, please.",
+  "kr": "아일 해브 디스, 플리즈",
+  "note": "메뉴를 손가락으로 가리키면서 말하세요."
+ },
+ {
+  "id": "not-spicy",
+  "text": "Not spicy, please.",
+  "roman": "Not spicy, please.",
+  "kr": "낫 스빠이씨, 플리즈"
+ },
+ {
+  "id": "no-cilantro",
+  "text": "No cilantro, please.",
+  "roman": "No cilantro, please.",
+  "kr": "노우 씰란트로, 플리즈",
+  "note": "영국·호주에서는 고수를 coriander(코리앤더)라고 해요."
+ },
+ {
+  "id": "allergy",
+  "text": "I'm allergic to ○○.",
+  "roman": "I'm allergic to ○○.",
+  "kr": "아임 얼러직 투 ○○",
+  "note": "예: peanuts(피넛츠), shellfish(쉘피시), milk(밀크)."
+ },
+ {
+  "id": "water",
+  "text": "Could I have some water, please?",
+  "roman": "Could I have some water, please?",
+  "kr": "쿠다이 해브 썸 워터, 플리즈?",
+  "note": "water는 '워터'보다 '워러'가 미국에서 잘 통해요."
+ },
+ {
+  "id": "delicious",
+  "text": "It's delicious.",
+  "roman": "It's delicious.",
+  "kr": "잇츠 딜리셔스",
+  "note": "직원이 맛을 물으면 \"It's great!\"(잇츠 그레잇)이라고 해도 돼요."
+ },
+ {
+  "id": "bill",
+  "text": "Could I have the check, please?",
+  "roman": "Could I have the check, please?",
+  "kr": "쿠다이 해브 더 첵, 플리즈?",
+  "note": "영국·동남아에서는 \"the bill\"(더 빌)이 더 흔해요."
+ },
+ {
+  "id": "card-ok",
+  "text": "Can I pay by card?",
+  "roman": "Can I pay by card?",
+  "kr": "캔 아이 페이 바이 카드?"
+ },
+ {
+  "id": "takeout",
+  "text": "Can I get this to go?",
+  "roman": "Can I get this to go?",
+  "kr": "캔 아이 겟 디스 투 고우?",
+  "note": "남은 음식을 싸 갈 때는 \"Can I get a box?\"(캔 아이 겟 어 박스?)라고 해요."
+ },
+ {
+  "id": "beer",
+  "text": "One beer, please.",
+  "roman": "One beer, please.",
+  "kr": "원 비어, 플리즈",
+  "note": "병맥주를 콕 집으려면 \"a bottle of beer\"(어 바를 오브 비어)라고 해요."
+ },
+ {
+  "id": "restroom",
+  "text": "Where is the restroom?",
+  "roman": "Where is the restroom?",
+  "kr": "웨어 이즈 더 레스트룸?",
+  "note": "영국·유럽에서는 toilet(토일렛)이 더 잘 통해요."
+ },
+ {
+  "id": "separate",
+  "text": "Separate checks, please.",
+  "roman": "Separate checks, please.",
+  "kr": "쎄퍼릿 첵스, 플리즈",
+  "note": "\"Can we pay separately?\"(캔 위 페이 쎄퍼릿리?)도 같은 뜻이에요."
+ },
+ {
+  "id": "how-much",
+  "text": "How much is this?",
+  "roman": "How much is this?",
+  "kr": "하우 머치 이즈 디스?"
+ },
+ {
+  "id": "discount",
+  "text": "Can you give me a discount?",
+  "roman": "Can you give me a discount?",
+  "kr": "캔 유 깁 미 어 디스카운트?",
+  "note": "시장에서는 웃으면서 \"Any discount?\"(애니 디스카운트?)만 해도 통해요."
+ },
+ {
+  "id": "too-expensive",
+  "text": "That's too expensive.",
+  "roman": "That's too expensive.",
+  "kr": "댓츠 투 익스뻰시브"
+ },
+ {
+  "id": "look-around",
+  "text": "I'm just looking, thanks.",
+  "roman": "I'm just looking, thanks.",
+  "kr": "아임 저스트 루킹, 땡스"
+ },
+ {
+  "id": "try-on",
+  "text": "Can I try this on?",
+  "roman": "Can I try this on?",
+  "kr": "캔 아이 트라이 디스 온?"
+ },
+ {
+  "id": "other-size",
+  "text": "Do you have this in another size?",
+  "roman": "Do you have this in another size?",
+  "kr": "두 유 해브 디스 인 어나더 싸이즈?",
+  "note": "더 크면 bigger(비거), 더 작으면 smaller(스몰러)라고 하세요."
+ },
+ {
+  "id": "other-color",
+  "text": "Do you have this in another color?",
+  "roman": "Do you have this in another color?",
+  "kr": "두 유 해브 디스 인 어나더 컬러?"
+ },
+ {
+  "id": "take-this",
+  "text": "I'll take this one.",
+  "roman": "I'll take this one.",
+  "kr": "아일 테익 디스 원"
+ },
+ {
+  "id": "tax-refund",
+  "text": "Can I get a tax refund?",
+  "roman": "Can I get a tax refund?",
+  "kr": "캔 아이 겟 어 택스 리펀드?",
+  "note": "'Tax Free' 표시가 있는 가게에서 여권을 함께 보여 주세요."
+ },
+ {
+  "id": "bag",
+  "text": "Could I have a bag, please?",
+  "roman": "Could I have a bag, please?",
+  "kr": "쿠다이 해버 백, 플리즈?",
+  "note": "봉투값을 따로 받는 곳이 많아요."
+ },
+ {
+  "id": "receipt",
+  "text": "Could I have a receipt, please?",
+  "roman": "Could I have a receipt, please?",
+  "kr": "쿠다이 해버 리씻, 플리즈?",
+  "note": "receipt의 p는 소리 내지 않아요."
+ },
+ {
+  "id": "where-is",
+  "text": "Where is ○○?",
+  "roman": "Where is ○○?",
+  "kr": "웨어 이즈 ○○?",
+  "note": "앞에 \"Excuse me,\"를 붙이면 더 정중해요."
+ },
+ {
+  "id": "lost",
+  "text": "I'm lost.",
+  "roman": "I'm lost.",
+  "kr": "아임 로스트"
+ },
+ {
+  "id": "far",
+  "text": "Is it far from here?",
+  "roman": "Is it far from here?",
+  "kr": "이즈 잇 파 프럼 히어?"
+ },
+ {
+  "id": "walk",
+  "text": "Can I walk there?",
+  "roman": "Can I walk there?",
+  "kr": "캔 아이 웍 데어?",
+  "note": "walk는 l을 발음하지 않고 '웍'이라고 해요."
+ },
+ {
+  "id": "map-show",
+  "text": "Could you show me on the map?",
+  "roman": "Could you show me on the map?",
+  "kr": "쿠쥬 쇼우 미 온 더 맵?",
+  "note": "휴대폰 지도를 내밀면서 말하세요."
+ },
+ {
+  "id": "photo",
+  "text": "Could you take a picture of us?",
+  "roman": "Could you take a picture of us?",
+  "kr": "쿠쥬 테이커 픽처 오브 어스?",
+  "note": "혼자라면 \"of me\"(오브 미)로 바꾸세요."
+ },
+ {
+  "id": "convenience",
+  "text": "Where is a convenience store?",
+  "roman": "Where is a convenience store?",
+  "kr": "웨어 이즈 어 컨비니언스 스또어?"
+ },
+ {
+  "id": "near-here",
+  "text": "Is there one near here?",
+  "roman": "Is there one near here?",
+  "kr": "이즈 데어 원 니어 히어?",
+  "note": "찾는 곳을 넣어 \"Is there a ○○ near here?\"라고 해도 돼요."
+ },
+ {
+  "id": "help",
+  "text": "Help!",
+  "roman": "Help!",
+  "kr": "헬프!",
+  "note": "급하지 않다면 \"Can you help me?\"(캔 유 헬프 미?)라고 하세요."
+ },
+ {
+  "id": "police",
+  "text": "Please call the police!",
+  "roman": "Please call the police!",
+  "kr": "플리즈 콜 더 폴리스!",
+  "note": "미국·캐나다 긴급 번호는 911이에요."
+ },
+ {
+  "id": "hospital",
+  "text": "Where is the hospital?",
+  "roman": "Where is the hospital?",
+  "kr": "웨어 이즈 더 하스삐럴?"
+ },
+ {
+  "id": "sick",
+  "text": "I don't feel well.",
+  "roman": "I don't feel well.",
+  "kr": "아이 돈트 필 웰"
+ },
+ {
+  "id": "stomachache",
+  "text": "I have a stomachache.",
+  "roman": "I have a stomachache.",
+  "kr": "아이 해버 스터먹에이크"
+ },
+ {
+  "id": "pharmacy",
+  "text": "Where is a pharmacy?",
+  "roman": "Where is a pharmacy?",
+  "kr": "웨어 이즈 어 파머씨?",
+  "note": "미국에서는 drugstore(드럭스또어)라고도 해요."
+ },
+ {
+  "id": "lost-passport",
+  "text": "I lost my passport.",
+  "roman": "I lost my passport.",
+  "kr": "아이 로스트 마이 패스포트",
+  "note": "경찰서에서 분실 증명서(police report)를 먼저 받아 두세요."
+ },
+ {
+  "id": "stolen",
+  "text": "My wallet was stolen.",
+  "roman": "My wallet was stolen.",
+  "kr": "마이 월릿 워즈 스또울른"
+ },
+ {
+  "id": "embassy",
+  "text": "Please contact the Korean Embassy.",
+  "roman": "Please contact the Korean Embassy.",
+  "kr": "플리즈 컨택트 더 코리안 엠버씨",
+  "note": "영사콜센터(+82-2-3210-0404)는 24시간 연결돼요."
+ },
+ {
+  "id": "ambulance",
+  "text": "Please call an ambulance!",
+  "roman": "Please call an ambulance!",
+  "kr": "플리즈 콜 언 앰뷸런스!"
+ }
+]

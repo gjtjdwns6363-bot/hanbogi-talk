@@ -1,0 +1,590 @@
+[
+ {
+  "id": "hello",
+  "text": "สวัสดี ครับ/ค่ะ",
+  "roman": "sà wàt dii khráp/khâ",
+  "kr": "싸왓디 캅/카",
+  "note": "하루 중 언제든, 헤어질 때도 쓸 수 있어요"
+ },
+ {
+  "id": "thanks",
+  "text": "ขอบคุณ ครับ/ค่ะ",
+  "roman": "khàwp khun khráp/khâ",
+  "kr": "컵쿤 캅/카",
+  "note": "남자는 캅, 여자는 카로 끝내요"
+ },
+ {
+  "id": "thanks-very",
+  "text": "ขอบคุณมาก ครับ/ค่ะ",
+  "roman": "khàwp khun mâak khráp/khâ",
+  "kr": "컵쿤 막 캅/카"
+ },
+ {
+  "id": "sorry",
+  "text": "ขอโทษ ครับ/ค่ะ",
+  "roman": "khǎw thôot khráp/khâ",
+  "kr": "커톳 캅/카"
+ },
+ {
+  "id": "excuse-me",
+  "text": "ขอโทษ ครับ/ค่ะ",
+  "roman": "khǎw thôot khráp/khâ",
+  "kr": "커톳 캅/카",
+  "note": "태국어는 사과와 실례를 같은 말로 해요"
+ },
+ {
+  "id": "yes",
+  "text": "ใช่ ครับ/ค่ะ",
+  "roman": "châi khráp/khâ",
+  "kr": "차이 캅/카",
+  "note": "대답만 할 땐 \"캅/카\" 한마디로도 \"네\"가 돼요"
+ },
+ {
+  "id": "no",
+  "text": "ไม่ใช่ ครับ/ค่ะ",
+  "roman": "mâi châi khráp/khâ",
+  "kr": "마이 차이 캅/카",
+  "note": "필요 없다고 거절할 땐 \"마이 아오 캅/카\""
+ },
+ {
+  "id": "goodbye",
+  "text": "สวัสดี ครับ/ค่ะ",
+  "roman": "sà wàt dii khráp/khâ",
+  "kr": "싸왓디 캅/카",
+  "note": "태국은 만날 때와 헤어질 때 인사가 같아요"
+ },
+ {
+  "id": "nice-to-meet",
+  "text": "ยินดีที่ได้รู้จัก ครับ/ค่ะ",
+  "roman": "yin dii thîi dâi rúu jàk khráp/khâ",
+  "kr": "인디 티 다이 루짝 캅/카"
+ },
+ {
+  "id": "im-korean",
+  "text": "ผม/ฉันเป็นคนเกาหลี ครับ/ค่ะ",
+  "roman": "phǒm/chǎn pen khon kao lǐi khráp/khâ",
+  "kr": "폼/찬 뻰 콘 까올리 캅/카",
+  "note": "\"나\"는 남자는 폼, 여자는 찬이에요"
+ },
+ {
+  "id": "dont-understand",
+  "text": "ไม่เข้าใจ ครับ/ค่ะ",
+  "roman": "mâi khâo jai khráp/khâ",
+  "kr": "마이 카오짜이 캅/카"
+ },
+ {
+  "id": "speak-english",
+  "text": "พูดภาษาอังกฤษได้ไหม ครับ/คะ",
+  "roman": "phûut phaa sǎa ang krìt dâi mái khráp/khá",
+  "kr": "풋 파싸 앙끄릿 다이 마이 캅/카",
+  "note": "질문일 때 여자는 \"카\"를 올려서 말해요"
+ },
+ {
+  "id": "slowly",
+  "text": "พูดช้าๆ หน่อย ครับ/ค่ะ",
+  "roman": "phûut cháa cháa nàwy khráp/khâ",
+  "kr": "풋 차차 너이 캅/카"
+ },
+ {
+  "id": "again",
+  "text": "พูดอีกทีได้ไหม ครับ/คะ",
+  "roman": "phûut ìik thii dâi mái khráp/khá",
+  "kr": "풋 익티 다이 마이 캅/카"
+ },
+ {
+  "id": "its-ok",
+  "text": "ไม่เป็นไร ครับ/ค่ะ",
+  "roman": "mâi pen rai khráp/khâ",
+  "kr": "마이 뻰 라이 캅/카",
+  "note": "\"괜찮아요, 신경 쓰지 마세요\" 뜻으로 아주 자주 써요"
+ },
+ {
+  "id": "passport",
+  "text": "นี่พาสปอร์ต ครับ/ค่ะ",
+  "roman": "nîi pháat sà pàwt khráp/khâ",
+  "kr": "니 팟싸뻣 캅/카"
+ },
+ {
+  "id": "sightseeing",
+  "text": "มาเที่ยว ครับ/ค่ะ",
+  "roman": "maa thîao khráp/khâ",
+  "kr": "마 티야우 캅/카"
+ },
+ {
+  "id": "stay-days",
+  "text": "จะอยู่ห้าวัน ครับ/ค่ะ",
+  "roman": "jà yùu hâa wan khráp/khâ",
+  "kr": "짜 유 하 완 캅/카",
+  "note": "숫자 5 = 하(ห้า)"
+ },
+ {
+  "id": "hotel-stay",
+  "text": "พักที่โรงแรม ครับ/ค่ะ",
+  "roman": "phák thîi roong raem khráp/khâ",
+  "kr": "팍 티 롱램 캅/카"
+ },
+ {
+  "id": "baggage-claim",
+  "text": "ที่รับกระเป๋าอยู่ที่ไหน ครับ/คะ",
+  "roman": "thîi ráp krà pǎo yùu thîi nǎi khráp/khá",
+  "kr": "티 랍 끄라빠오 유 티나이 캅/카"
+ },
+ {
+  "id": "lost-baggage",
+  "text": "กระเป๋าของผม/ฉันไม่ออกมา ครับ/ค่ะ",
+  "roman": "krà pǎo khǎwng phǒm/chǎn mâi àwk maa khráp/khâ",
+  "kr": "끄라빠오 컹 폼/찬 마이 억 마 캅/카"
+ },
+ {
+  "id": "exchange",
+  "text": "แลกเงินได้ที่ไหน ครับ/คะ",
+  "roman": "lâek ngoen dâi thîi nǎi khráp/khá",
+  "kr": "랙 응언 다이 티나이 캅/카",
+  "note": "공항보다 시내 환전소(슈퍼리치 등) 환율이 좋아요"
+ },
+ {
+  "id": "sim-card",
+  "text": "ซื้อซิมการ์ดได้ที่ไหน ครับ/คะ",
+  "roman": "súe sim káat dâi thîi nǎi khráp/khá",
+  "kr": "쓰 씸깟 다이 티나이 캅/카"
+ },
+ {
+  "id": "wifi",
+  "text": "รหัสไวไฟคืออะไร ครับ/คะ",
+  "roman": "rá hàt wai fai khue à rai khráp/khá",
+  "kr": "라핫 와이파이 크 아라이 캅/카"
+ },
+ {
+  "id": "checkin-counter",
+  "text": "เคาน์เตอร์เช็คอินอยู่ที่ไหน ครับ/คะ",
+  "roman": "khao tôe chék in yùu thîi nǎi khráp/khá",
+  "kr": "카우떠 첵인 유 티나이 캅/카"
+ },
+ {
+  "id": "taxi-stand",
+  "text": "ขึ้นแท็กซี่ได้ที่ไหน ครับ/คะ",
+  "roman": "khûen tháek sîi dâi thîi nǎi khráp/khá",
+  "kr": "큰 택씨 다이 티나이 캅/카"
+ },
+ {
+  "id": "go-here",
+  "text": "ไปที่นี่ ครับ/ค่ะ",
+  "roman": "pai thîi nîi khráp/khâ",
+  "kr": "빠이 티니 캅/카",
+  "note": "지도나 주소를 보여 주면서 말하세요"
+ },
+ {
+  "id": "how-long",
+  "text": "ใช้เวลานานเท่าไหร่ ครับ/คะ",
+  "roman": "chái wee laa naan thâo rài khráp/khá",
+  "kr": "차이 웰라 난 타오라이 캅/카"
+ },
+ {
+  "id": "stop-here",
+  "text": "จอดตรงนี้ ครับ/ค่ะ",
+  "roman": "jàwt trong níi khráp/khâ",
+  "kr": "쩟 뜨롱니 캅/카"
+ },
+ {
+  "id": "meter",
+  "text": "เปิดมิเตอร์ด้วย ครับ/ค่ะ",
+  "roman": "pòet mí tôe dûai khráp/khâ",
+  "kr": "뻣 미떠 두어이 캅/카",
+  "note": "미터 안 켜고 흥정하려 하면 다른 택시를 타는 게 나아요"
+ },
+ {
+  "id": "station-where",
+  "text": "สถานีอยู่ที่ไหน ครับ/คะ",
+  "roman": "sà thǎa nii yùu thîi nǎi khráp/khá",
+  "kr": "싸타니 유 티나이 캅/카",
+  "note": "BTS·MRT 역 이름을 앞에 붙이면 더 잘 통해요"
+ },
+ {
+  "id": "ticket-one",
+  "text": "ขอตั๋วหนึ่งใบ ครับ/ค่ะ",
+  "roman": "khǎw tǔa nùeng bai khráp/khâ",
+  "kr": "커 뚜어 능 바이 캅/카"
+ },
+ {
+  "id": "this-train",
+  "text": "รถไฟขบวนนี้ไป○○ไหม ครับ/คะ",
+  "roman": "rót fai khà buan níi pai ○○ mái khráp/khá",
+  "kr": "롯파이 카부안 니 빠이 ○○ 마이 캅/카"
+ },
+ {
+  "id": "bus-stop",
+  "text": "ป้ายรถเมล์อยู่ที่ไหน ครับ/คะ",
+  "roman": "pâai rót mee yùu thîi nǎi khráp/khá",
+  "kr": "빠이 롯메 유 티나이 캅/카"
+ },
+ {
+  "id": "transfer",
+  "text": "ต้องเปลี่ยนรถที่ไหน ครับ/คะ",
+  "roman": "tâwng plìan rót thîi nǎi khráp/khá",
+  "kr": "떵 쁠리안 롯 티나이 캅/카"
+ },
+ {
+  "id": "airport-go",
+  "text": "ไปสนามบิน ครับ/ค่ะ",
+  "roman": "pai sà nǎam bin khráp/khâ",
+  "kr": "빠이 싸남빈 캅/카",
+  "note": "방콕은 공항이 두 곳이라 \"쑤완나품\"이나 \"돈므앙\"을 붙여 말하세요"
+ },
+ {
+  "id": "fare",
+  "text": "ค่าโดยสารเท่าไหร่ ครับ/คะ",
+  "roman": "khâa dooi sǎan thâo rài khráp/khá",
+  "kr": "카 도이싼 타오라이 캅/카"
+ },
+ {
+  "id": "reservation",
+  "text": "จองไว้แล้ว ครับ/ค่ะ",
+  "roman": "jawng wái láew khráp/khâ",
+  "kr": "쩡 와이 래우 캅/카"
+ },
+ {
+  "id": "checkin",
+  "text": "ขอเช็คอิน ครับ/ค่ะ",
+  "roman": "khǎw chék in khráp/khâ",
+  "kr": "커 첵인 캅/카"
+ },
+ {
+  "id": "checkout",
+  "text": "ขอเช็คเอาท์ ครับ/ค่ะ",
+  "roman": "khǎw chék áo khráp/khâ",
+  "kr": "커 첵아우 캅/카"
+ },
+ {
+  "id": "checkout-time",
+  "text": "เช็คเอาท์กี่โมง ครับ/คะ",
+  "roman": "chék áo kìi moong khráp/khá",
+  "kr": "첵아우 끼 몽 캅/카"
+ },
+ {
+  "id": "keep-luggage",
+  "text": "ฝากกระเป๋าได้ไหม ครับ/คะ",
+  "roman": "fàak krà pǎo dâi mái khráp/khá",
+  "kr": "팍 끄라빠오 다이 마이 캅/카"
+ },
+ {
+  "id": "towel",
+  "text": "ขอผ้าเช็ดตัวเพิ่ม ครับ/ค่ะ",
+  "roman": "khǎw phâa chét tua phôem khráp/khâ",
+  "kr": "커 파쳇뚜어 픔 캅/카"
+ },
+ {
+  "id": "aircon-broken",
+  "text": "แอร์เสีย ครับ/ค่ะ",
+  "roman": "ae sǐa khráp/khâ",
+  "kr": "애 씨아 캅/카"
+ },
+ {
+  "id": "no-hot-water",
+  "text": "ไม่มีน้ำร้อน ครับ/ค่ะ",
+  "roman": "mâi mii náam ráwn khráp/khâ",
+  "kr": "마이 미 남런 캅/카"
+ },
+ {
+  "id": "room-key",
+  "text": "ทำกุญแจห้องหาย ครับ/ค่ะ",
+  "roman": "tham kun jae hâwng hǎai khráp/khâ",
+  "kr": "탐 꾼째 헝 하이 캅/카",
+  "note": "카드키면 \"키깟(คีย์การ์ด)\"이라고 해도 돼요"
+ },
+ {
+  "id": "breakfast-time",
+  "text": "อาหารเช้ากี่โมง ครับ/คะ",
+  "roman": "aa hǎan cháo kìi moong khráp/khá",
+  "kr": "아한차오 끼 몽 캅/카"
+ },
+ {
+  "id": "late-checkout",
+  "text": "เช็คเอาท์ช้าได้ไหม ครับ/คะ",
+  "roman": "chék áo cháa dâi mái khráp/khá",
+  "kr": "첵아우 차 다이 마이 캅/카"
+ },
+ {
+  "id": "clean-room",
+  "text": "ช่วยทำความสะอาดห้องด้วย ครับ/ค่ะ",
+  "roman": "chûai tham khwaam sà àat hâwng dûai khráp/khâ",
+  "kr": "추어이 탐쾀싸앗 헝 두어이 캅/카"
+ },
+ {
+  "id": "table-two",
+  "text": "สองคน ครับ/ค่ะ",
+  "roman": "sǎwng khon khráp/khâ",
+  "kr": "썽 콘 캅/카",
+  "note": "손가락 두 개를 같이 보여 주면 확실해요"
+ },
+ {
+  "id": "menu-please",
+  "text": "ขอเมนูหน่อย ครับ/ค่ะ",
+  "roman": "khǎw mee nuu nàwy khráp/khâ",
+  "kr": "커 메누 너이 캅/카"
+ },
+ {
+  "id": "recommend",
+  "text": "มีเมนูแนะนำไหม ครับ/คะ",
+  "roman": "mii mee nuu náe nam mái khráp/khá",
+  "kr": "미 메누 내남 마이 캅/카"
+ },
+ {
+  "id": "this-one",
+  "text": "เอาอันนี้ ครับ/ค่ะ",
+  "roman": "ao an níi khráp/khâ",
+  "kr": "아오 안니 캅/카",
+  "note": "메뉴를 손가락으로 가리키며 말하세요"
+ },
+ {
+  "id": "not-spicy",
+  "text": "ไม่เผ็ด ครับ/ค่ะ",
+  "roman": "mâi phèt khráp/khâ",
+  "kr": "마이 펫 캅/카",
+  "note": "조금만 맵게는 \"펫 닛너이\""
+ },
+ {
+  "id": "no-cilantro",
+  "text": "ไม่ใส่ผักชี ครับ/ค่ะ",
+  "roman": "mâi sài phàk chii khráp/khâ",
+  "kr": "마이 싸이 팍치 캅/카"
+ },
+ {
+  "id": "allergy",
+  "text": "ผม/ฉันแพ้○○ ครับ/ค่ะ",
+  "roman": "phǒm/chǎn pháe ○○ khráp/khâ",
+  "kr": "폼/찬 패 ○○ 캅/카",
+  "note": "새우는 꿍(กุ้ง), 땅콩은 투어리썽(ถั่วลิสง)"
+ },
+ {
+  "id": "water",
+  "text": "ขอน้ำเปล่า ครับ/ค่ะ",
+  "roman": "khǎw náam plào khráp/khâ",
+  "kr": "커 남쁠라오 캅/카",
+  "note": "남쁠라오 = 생수(맹물)"
+ },
+ {
+  "id": "delicious",
+  "text": "อร่อย ครับ/ค่ะ",
+  "roman": "à ròi khráp/khâ",
+  "kr": "아로이 캅/카",
+  "note": "\"아주 맛있어요\"는 \"아로이 막\""
+ },
+ {
+  "id": "bill",
+  "text": "เช็คบิล ครับ/ค่ะ",
+  "roman": "chék bin khráp/khâ",
+  "kr": "첵빈 캅/카",
+  "note": "손으로 허공에 서명하는 시늉을 해도 통해요"
+ },
+ {
+  "id": "card-ok",
+  "text": "จ่ายบัตรได้ไหม ครับ/คะ",
+  "roman": "jàai bàt dâi mái khráp/khá",
+  "kr": "짜이 밧 다이 마이 캅/카"
+ },
+ {
+  "id": "takeout",
+  "text": "เอากลับบ้าน ครับ/ค่ะ",
+  "roman": "ao klàp bâan khráp/khâ",
+  "kr": "아오 끌랍반 캅/카"
+ },
+ {
+  "id": "beer",
+  "text": "ขอเบียร์หนึ่งขวด ครับ/ค่ะ",
+  "roman": "khǎw bia nùeng khùat khráp/khâ",
+  "kr": "커 비아 능 쿠엇 캅/카"
+ },
+ {
+  "id": "restroom",
+  "text": "ห้องน้ำอยู่ที่ไหน ครับ/คะ",
+  "roman": "hâwng náam yùu thîi nǎi khráp/khá",
+  "kr": "헝남 유 티나이 캅/카"
+ },
+ {
+  "id": "separate",
+  "text": "แยกจ่าย ครับ/ค่ะ",
+  "roman": "yâek jàai khráp/khâ",
+  "kr": "얙 짜이 캅/카"
+ },
+ {
+  "id": "how-much",
+  "text": "เท่าไหร่ ครับ/คะ",
+  "roman": "thâo rài khráp/khá",
+  "kr": "타오라이 캅/카"
+ },
+ {
+  "id": "discount",
+  "text": "ลดได้ไหม ครับ/คะ",
+  "roman": "lót dâi mái khráp/khá",
+  "kr": "롯 다이 마이 캅/카",
+  "note": "시장에서는 웃으며 말하는 게 요령이에요"
+ },
+ {
+  "id": "too-expensive",
+  "text": "แพงไป ครับ/ค่ะ",
+  "roman": "phaeng pai khráp/khâ",
+  "kr": "팽 빠이 캅/카"
+ },
+ {
+  "id": "look-around",
+  "text": "ดูเฉยๆ ครับ/ค่ะ",
+  "roman": "duu chǒei chǒei khráp/khâ",
+  "kr": "두 처이처이 캅/카"
+ },
+ {
+  "id": "try-on",
+  "text": "ลองได้ไหม ครับ/คะ",
+  "roman": "lawng dâi mái khráp/khá",
+  "kr": "렁 다이 마이 캅/카"
+ },
+ {
+  "id": "other-size",
+  "text": "มีไซส์อื่นไหม ครับ/คะ",
+  "roman": "mii sai ùen mái khráp/khá",
+  "kr": "미 싸이 은 마이 캅/카"
+ },
+ {
+  "id": "other-color",
+  "text": "มีสีอื่นไหม ครับ/คะ",
+  "roman": "mii sǐi ùen mái khráp/khá",
+  "kr": "미 씨 은 마이 캅/카"
+ },
+ {
+  "id": "take-this",
+  "text": "เอาอันนี้ ครับ/ค่ะ",
+  "roman": "ao an níi khráp/khâ",
+  "kr": "아오 안니 캅/카"
+ },
+ {
+  "id": "tax-refund",
+  "text": "ทำแวทรีฟันด์ได้ไหม ครับ/คะ",
+  "roman": "tham waet rii fan dâi mái khráp/khá",
+  "kr": "탐 왯리펀 다이 마이 캅/카",
+  "note": "태국은 \"VAT 리펀드\"라고 불러요"
+ },
+ {
+  "id": "bag",
+  "text": "ขอถุงด้วย ครับ/ค่ะ",
+  "roman": "khǎw thǔng dûai khráp/khâ",
+  "kr": "커 퉁 두어이 캅/카"
+ },
+ {
+  "id": "receipt",
+  "text": "ขอใบเสร็จด้วย ครับ/ค่ะ",
+  "roman": "khǎw bai sèt dûai khráp/khâ",
+  "kr": "커 바이쎗 두어이 캅/카"
+ },
+ {
+  "id": "where-is",
+  "text": "○○อยู่ที่ไหน ครับ/คะ",
+  "roman": "○○ yùu thîi nǎi khráp/khá",
+  "kr": "○○ 유 티나이 캅/카"
+ },
+ {
+  "id": "lost",
+  "text": "หลงทาง ครับ/ค่ะ",
+  "roman": "lǒng thaang khráp/khâ",
+  "kr": "롱 탕 캅/카"
+ },
+ {
+  "id": "far",
+  "text": "ไกลจากที่นี่ไหม ครับ/คะ",
+  "roman": "klai jàak thîi nîi mái khráp/khá",
+  "kr": "끌라이 짝 티니 마이 캅/카"
+ },
+ {
+  "id": "walk",
+  "text": "เดินไปได้ไหม ครับ/คะ",
+  "roman": "doen pai dâi mái khráp/khá",
+  "kr": "든 빠이 다이 마이 캅/카"
+ },
+ {
+  "id": "map-show",
+  "text": "ช่วยชี้ในแผนที่หน่อย ครับ/ค่ะ",
+  "roman": "chûai chíi nai phǎen thîi nàwy khráp/khâ",
+  "kr": "추어이 치 나이 팬티 너이 캅/카"
+ },
+ {
+  "id": "photo",
+  "text": "ช่วยถ่ายรูปให้หน่อยได้ไหม ครับ/คะ",
+  "roman": "chûai thàai rûup hâi nàwy dâi mái khráp/khá",
+  "kr": "추어이 타이룹 하이 너이 다이 마이 캅/카"
+ },
+ {
+  "id": "convenience",
+  "text": "เซเว่นอยู่ที่ไหน ครับ/คะ",
+  "roman": "see wên yùu thîi nǎi khráp/khá",
+  "kr": "쎄웬 유 티나이 캅/카",
+  "note": "태국에선 편의점을 흔히 \"쎄웬(세븐일레븐)\"이라고 불러요"
+ },
+ {
+  "id": "near-here",
+  "text": "แถวนี้มี ○○ ไหม ครับ/คะ",
+  "roman": "thǎew níi mii ○○ mái khráp/khá",
+  "kr": "태우니 미 ○○ 마이 캅/카",
+  "note": "○○에 찾는 곳을 넣으세요(예: 쎄웬, 롱파야반=병원)"
+ },
+ {
+  "id": "help",
+  "text": "ช่วยด้วย",
+  "roman": "chûai dûai",
+  "kr": "추어이 두어이",
+  "note": "급할 땐 캅/카 없이 크게 외쳐요"
+ },
+ {
+  "id": "police",
+  "text": "ช่วยเรียกตำรวจให้หน่อย ครับ/ค่ะ",
+  "roman": "chûai rîak tam rùat hâi nàwy khráp/khâ",
+  "kr": "추어이 리악 땀루엇 하이 너이 캅/카",
+  "note": "관광경찰 번호는 1155예요"
+ },
+ {
+  "id": "hospital",
+  "text": "โรงพยาบาลอยู่ที่ไหน ครับ/คะ",
+  "roman": "roong phá yaa baan yùu thîi nǎi khráp/khá",
+  "kr": "롱파야반 유 티나이 캅/카"
+ },
+ {
+  "id": "sick",
+  "text": "ไม่สบาย ครับ/ค่ะ",
+  "roman": "mâi sà baai khráp/khâ",
+  "kr": "마이 싸바이 캅/카"
+ },
+ {
+  "id": "stomachache",
+  "text": "ปวดท้อง ครับ/ค่ะ",
+  "roman": "pùat tháwng khráp/khâ",
+  "kr": "뿌엇 텅 캅/카"
+ },
+ {
+  "id": "pharmacy",
+  "text": "ร้านขายยาอยู่ที่ไหน ครับ/คะ",
+  "roman": "ráan khǎai yaa yùu thîi nǎi khráp/khá",
+  "kr": "란 카이 야 유 티나이 캅/카"
+ },
+ {
+  "id": "lost-passport",
+  "text": "ทำพาสปอร์ตหาย ครับ/ค่ะ",
+  "roman": "tham pháat sà pàwt hǎai khráp/khâ",
+  "kr": "탐 팟싸뻣 하이 캅/카"
+ },
+ {
+  "id": "stolen",
+  "text": "กระเป๋าสตางค์โดนขโมย ครับ/ค่ะ",
+  "roman": "krà pǎo sà taang doon khà mooi khráp/khâ",
+  "kr": "끄라빠오 싸땅 돈 카모이 캅/카"
+ },
+ {
+  "id": "embassy",
+  "text": "ช่วยติดต่อสถานทูตเกาหลีให้หน่อย ครับ/ค่ะ",
+  "roman": "chûai tìt tàw sà thǎan thûut kao lǐi hâi nàwy khráp/khâ",
+  "kr": "추어이 띳떠 싸탄툿 까올리 하이 너이 캅/카"
+ },
+ {
+  "id": "ambulance",
+  "text": "ช่วยเรียกรถพยาบาลให้หน่อย ครับ/ค่ะ",
+  "roman": "chûai rîak rót phá yaa baan hâi nàwy khráp/khâ",
+  "kr": "추어이 리악 롯파야반 하이 너이 캅/카",
+  "note": "태국 응급의료 번호는 1669예요"
+ }
+]

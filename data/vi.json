@@ -1,0 +1,597 @@
+[
+ {
+  "id": "hello",
+  "text": "Xin chào",
+  "roman": "Xin chào",
+  "kr": "씬 짜오",
+  "note": "상대가 남자면 \"Chào anh(짜오 아잉)\", 여자면 \"Chào chị(짜오 찌)\"가 더 자연스러워요"
+ },
+ {
+  "id": "thanks",
+  "text": "Cảm ơn",
+  "roman": "Cảm ơn",
+  "kr": "깜 언",
+  "note": "끝에 \"ạ(아)\"를 붙이면 더 공손해요"
+ },
+ {
+  "id": "thanks-very",
+  "text": "Cảm ơn nhiều",
+  "roman": "Cảm ơn nhiều",
+  "kr": "깜 언 니에우"
+ },
+ {
+  "id": "sorry",
+  "text": "Xin lỗi",
+  "roman": "Xin lỗi",
+  "kr": "씬 로이"
+ },
+ {
+  "id": "excuse-me",
+  "text": "Xin lỗi",
+  "roman": "Xin lỗi",
+  "kr": "씬 로이",
+  "note": "식당에서 직원을 부를 땐 \"Em ơi(앰 어이)\""
+ },
+ {
+  "id": "yes",
+  "text": "Vâng",
+  "roman": "Vâng",
+  "kr": "벙",
+  "note": "남부에선 주로 \"Dạ(야)\"라고 해요"
+ },
+ {
+  "id": "no",
+  "text": "Không",
+  "roman": "Không",
+  "kr": "콩"
+ },
+ {
+  "id": "goodbye",
+  "text": "Tạm biệt",
+  "roman": "Tạm biệt",
+  "kr": "땀 비엣",
+  "note": "가게를 나설 땐 \"Cảm ơn(깜 언)\"만 해도 충분해요"
+ },
+ {
+  "id": "nice-to-meet",
+  "text": "Rất vui được gặp bạn",
+  "roman": "Rất vui được gặp bạn",
+  "kr": "젓 부이 드억 갑 반",
+  "note": "남부에선 \"럿 부이 드억 갑 반\"에 가깝게 들려요"
+ },
+ {
+  "id": "im-korean",
+  "text": "Tôi là người Hàn Quốc",
+  "roman": "Tôi là người Hàn Quốc",
+  "kr": "또이 라 응어이 한 꾸옥"
+ },
+ {
+  "id": "dont-understand",
+  "text": "Tôi không hiểu",
+  "roman": "Tôi không hiểu",
+  "kr": "또이 콩 히에우"
+ },
+ {
+  "id": "speak-english",
+  "text": "Bạn nói được tiếng Anh không?",
+  "roman": "Bạn nói được tiếng Anh không?",
+  "kr": "반 노이 드억 띠엥 아잉 콩?"
+ },
+ {
+  "id": "slowly",
+  "text": "Nói chậm lại giúp tôi",
+  "roman": "Nói chậm lại giúp tôi",
+  "kr": "노이 쩜 라이 줍 또이",
+  "note": "남부에선 \"giúp\"을 \"윱\"에 가깝게 발음해요"
+ },
+ {
+  "id": "again",
+  "text": "Nói lại một lần nữa được không?",
+  "roman": "Nói lại một lần nữa được không?",
+  "kr": "노이 라이 못 런 느어 드억 콩?"
+ },
+ {
+  "id": "its-ok",
+  "text": "Không sao",
+  "roman": "Không sao",
+  "kr": "콩 싸오"
+ },
+ {
+  "id": "passport",
+  "text": "Hộ chiếu đây",
+  "roman": "Hộ chiếu đây",
+  "kr": "호 찌에우 더이"
+ },
+ {
+  "id": "sightseeing",
+  "text": "Tôi đến để du lịch",
+  "roman": "Tôi đến để du lịch",
+  "kr": "또이 덴 데 주 릭",
+  "note": "남부에선 \"du lịch\"을 \"유 릭\"에 가깝게 발음해요"
+ },
+ {
+  "id": "stay-days",
+  "text": "Tôi sẽ ở năm ngày",
+  "roman": "Tôi sẽ ở năm ngày",
+  "kr": "또이 쌔 어 남 응아이"
+ },
+ {
+  "id": "hotel-stay",
+  "text": "Tôi ở khách sạn",
+  "roman": "Tôi ở khách sạn",
+  "kr": "또이 어 카익 싼"
+ },
+ {
+  "id": "baggage-claim",
+  "text": "Chỗ lấy hành lý ở đâu?",
+  "roman": "Chỗ lấy hành lý ở đâu?",
+  "kr": "쪼 러이 하잉 리 어 더우?"
+ },
+ {
+  "id": "lost-baggage",
+  "text": "Hành lý của tôi chưa ra",
+  "roman": "Hành lý của tôi chưa ra",
+  "kr": "하잉 리 꾸어 또이 쯔어 자",
+  "note": "남부에선 \"ra\"를 \"라\"로 발음해요"
+ },
+ {
+  "id": "exchange",
+  "text": "Đổi tiền ở đâu?",
+  "roman": "Đổi tiền ở đâu?",
+  "kr": "도이 띠엔 어 더우?",
+  "note": "공항보다 시내 금은방·환전소 환율이 좋은 편이에요"
+ },
+ {
+  "id": "sim-card",
+  "text": "Mua sim ở đâu?",
+  "roman": "Mua sim ở đâu?",
+  "kr": "무어 씸 어 더우?"
+ },
+ {
+  "id": "wifi",
+  "text": "Mật khẩu wifi là gì?",
+  "roman": "Mật khẩu wifi là gì?",
+  "kr": "멋 커우 와이파이 라 지?",
+  "note": "남부에선 \"gì\"를 \"이\"로 발음해요"
+ },
+ {
+  "id": "checkin-counter",
+  "text": "Quầy check-in ở đâu?",
+  "roman": "Quầy check-in ở đâu?",
+  "kr": "꿔이 체크인 어 더우?"
+ },
+ {
+  "id": "taxi-stand",
+  "text": "Bắt taxi ở đâu?",
+  "roman": "Bắt taxi ở đâu?",
+  "kr": "밧 딱씨 어 더우?",
+  "note": "베트남에선 그랩(Grab) 앱 호출이 가장 편해요"
+ },
+ {
+  "id": "go-here",
+  "text": "Cho tôi đến đây",
+  "roman": "Cho tôi đến đây",
+  "kr": "쩌 또이 덴 더이",
+  "note": "지도나 주소를 보여 주면서 말하세요"
+ },
+ {
+  "id": "how-long",
+  "text": "Mất bao lâu?",
+  "roman": "Mất bao lâu?",
+  "kr": "멋 바오 러우?"
+ },
+ {
+  "id": "stop-here",
+  "text": "Cho tôi xuống ở đây",
+  "roman": "Cho tôi xuống ở đây",
+  "kr": "쩌 또이 쑤옹 어 더이"
+ },
+ {
+  "id": "meter",
+  "text": "Bật đồng hồ lên giúp tôi",
+  "roman": "Bật đồng hồ lên giúp tôi",
+  "kr": "벗 동 호 렌 줍 또이"
+ },
+ {
+  "id": "station-where",
+  "text": "Nhà ga ở đâu?",
+  "roman": "Nhà ga ở đâu?",
+  "kr": "냐 가 어 더우?"
+ },
+ {
+  "id": "ticket-one",
+  "text": "Cho tôi một vé",
+  "roman": "Cho tôi một vé",
+  "kr": "쩌 또이 못 배"
+ },
+ {
+  "id": "this-train",
+  "text": "Tàu này có đi ○○ không?",
+  "roman": "Tàu này có đi ○○ không?",
+  "kr": "따우 나이 꼬 디 ○○ 콩?"
+ },
+ {
+  "id": "bus-stop",
+  "text": "Trạm xe buýt ở đâu?",
+  "roman": "Trạm xe buýt ở đâu?",
+  "kr": "짬 쌔 부잇 어 더우?"
+ },
+ {
+  "id": "transfer",
+  "text": "Tôi phải đổi xe ở đâu?",
+  "roman": "Tôi phải đổi xe ở đâu?",
+  "kr": "또이 파이 도이 쌔 어 더우?"
+ },
+ {
+  "id": "airport-go",
+  "text": "Cho tôi ra sân bay",
+  "roman": "Cho tôi ra sân bay",
+  "kr": "쩌 또이 자 썬 바이",
+  "note": "남부에선 \"라 썬 바이\"로 발음해요"
+ },
+ {
+  "id": "fare",
+  "text": "Bao nhiêu tiền?",
+  "roman": "Bao nhiêu tiền?",
+  "kr": "바오 니에우 띠엔?"
+ },
+ {
+  "id": "reservation",
+  "text": "Tôi đã đặt phòng rồi",
+  "roman": "Tôi đã đặt phòng rồi",
+  "kr": "또이 다 닷 퐁 조이",
+  "note": "남부에선 \"rồi\"를 \"로이\"로 발음해요"
+ },
+ {
+  "id": "checkin",
+  "text": "Tôi muốn nhận phòng",
+  "roman": "Tôi muốn nhận phòng",
+  "kr": "또이 무온 년 퐁"
+ },
+ {
+  "id": "checkout",
+  "text": "Tôi muốn trả phòng",
+  "roman": "Tôi muốn trả phòng",
+  "kr": "또이 무온 짜 퐁"
+ },
+ {
+  "id": "checkout-time",
+  "text": "Mấy giờ trả phòng?",
+  "roman": "Mấy giờ trả phòng?",
+  "kr": "머이 저 짜 퐁?"
+ },
+ {
+  "id": "keep-luggage",
+  "text": "Gửi hành lý ở đây được không?",
+  "roman": "Gửi hành lý ở đây được không?",
+  "kr": "그이 하잉 리 어 더이 드억 콩?"
+ },
+ {
+  "id": "towel",
+  "text": "Cho tôi thêm khăn tắm",
+  "roman": "Cho tôi thêm khăn tắm",
+  "kr": "쩌 또이 템 칸 땀"
+ },
+ {
+  "id": "aircon-broken",
+  "text": "Điều hòa bị hỏng",
+  "roman": "Điều hòa bị hỏng",
+  "kr": "디에우 화 비 홍",
+  "note": "남부에선 에어컨을 \"máy lạnh(마이 라잉)\"이라고 해요"
+ },
+ {
+  "id": "no-hot-water",
+  "text": "Không có nước nóng",
+  "roman": "Không có nước nóng",
+  "kr": "콩 꼬 느억 농"
+ },
+ {
+  "id": "room-key",
+  "text": "Tôi làm mất chìa khóa phòng",
+  "roman": "Tôi làm mất chìa khóa phòng",
+  "kr": "또이 람 멋 찌어 콰 퐁"
+ },
+ {
+  "id": "breakfast-time",
+  "text": "Mấy giờ ăn sáng?",
+  "roman": "Mấy giờ ăn sáng?",
+  "kr": "머이 저 안 쌍?"
+ },
+ {
+  "id": "late-checkout",
+  "text": "Tôi trả phòng muộn được không?",
+  "roman": "Tôi trả phòng muộn được không?",
+  "kr": "또이 짜 퐁 무온 드억 콩?"
+ },
+ {
+  "id": "clean-room",
+  "text": "Dọn phòng giúp tôi",
+  "roman": "Dọn phòng giúp tôi",
+  "kr": "존 퐁 줍 또이",
+  "note": "남부에선 \"욘 퐁 윱 또이\"에 가깝게 들려요"
+ },
+ {
+  "id": "table-two",
+  "text": "Hai người",
+  "roman": "Hai người",
+  "kr": "하이 응어이",
+  "note": "손가락 두 개를 같이 보여 주면 확실해요"
+ },
+ {
+  "id": "menu-please",
+  "text": "Cho tôi xem thực đơn",
+  "roman": "Cho tôi xem thực đơn",
+  "kr": "쩌 또이 쌤 특 던",
+  "note": "그냥 \"메뉴\"라고 해도 대부분 통해요"
+ },
+ {
+  "id": "recommend",
+  "text": "Món nào ngon?",
+  "roman": "Món nào ngon?",
+  "kr": "몬 나오 응온?",
+  "note": "\"어떤 게 맛있어요?\"라는 뜻으로 가장 자연스러워요"
+ },
+ {
+  "id": "this-one",
+  "text": "Cho tôi cái này",
+  "roman": "Cho tôi cái này",
+  "kr": "쩌 또이 까이 나이",
+  "note": "메뉴를 손가락으로 가리키며 말하세요"
+ },
+ {
+  "id": "not-spicy",
+  "text": "Đừng cho cay nhé",
+  "roman": "Đừng cho cay nhé",
+  "kr": "등 쩌 까이 녜"
+ },
+ {
+  "id": "no-cilantro",
+  "text": "Đừng cho rau mùi nhé",
+  "roman": "Đừng cho rau mùi nhé",
+  "kr": "등 쩌 자우 무이 녜",
+  "note": "남부에선 고수를 \"ngò(응오)\"라고 해요"
+ },
+ {
+  "id": "allergy",
+  "text": "Tôi bị dị ứng ○○",
+  "roman": "Tôi bị dị ứng ○○",
+  "kr": "또이 비 지 응 ○○",
+  "note": "새우는 tôm(똠), 땅콩은 đậu phộng(더우 퐁)"
+ },
+ {
+  "id": "water",
+  "text": "Cho tôi nước lọc",
+  "roman": "Cho tôi nước lọc",
+  "kr": "쩌 또이 느억 록",
+  "note": "생수병은 \"nước suối(느억 쑤오이)\""
+ },
+ {
+  "id": "delicious",
+  "text": "Ngon quá",
+  "roman": "Ngon quá",
+  "kr": "응온 꽈"
+ },
+ {
+  "id": "bill",
+  "text": "Tính tiền nhé",
+  "roman": "Tính tiền nhé",
+  "kr": "띤 띠엔 녜",
+  "note": "직원을 \"Em ơi(앰 어이)\"로 부른 뒤 말하세요"
+ },
+ {
+  "id": "card-ok",
+  "text": "Trả bằng thẻ được không?",
+  "roman": "Trả bằng thẻ được không?",
+  "kr": "짜 방 테 드억 콩?"
+ },
+ {
+  "id": "takeout",
+  "text": "Cho tôi mang về",
+  "roman": "Cho tôi mang về",
+  "kr": "쩌 또이 망 베"
+ },
+ {
+  "id": "beer",
+  "text": "Cho tôi một chai bia",
+  "roman": "Cho tôi một chai bia",
+  "kr": "쩌 또이 못 짜이 비어",
+  "note": "캔은 \"lon(론)\"이에요"
+ },
+ {
+  "id": "restroom",
+  "text": "Nhà vệ sinh ở đâu?",
+  "roman": "Nhà vệ sinh ở đâu?",
+  "kr": "냐 베 씽 어 더우?"
+ },
+ {
+  "id": "separate",
+  "text": "Tính riêng nhé",
+  "roman": "Tính riêng nhé",
+  "kr": "띤 지엥 녜",
+  "note": "남부에선 \"띤 리엥 녜\"로 발음해요"
+ },
+ {
+  "id": "how-much",
+  "text": "Bao nhiêu tiền?",
+  "roman": "Bao nhiêu tiền?",
+  "kr": "바오 니에우 띠엔?"
+ },
+ {
+  "id": "discount",
+  "text": "Bớt chút được không?",
+  "roman": "Bớt chút được không?",
+  "kr": "벗 쭛 드억 콩?",
+  "note": "시장에서는 웃으며 말하는 게 요령이에요"
+ },
+ {
+  "id": "too-expensive",
+  "text": "Đắt quá",
+  "roman": "Đắt quá",
+  "kr": "닷 꽈",
+  "note": "남부에선 \"Mắc quá(막 꽈)\"라고 해요"
+ },
+ {
+  "id": "look-around",
+  "text": "Tôi chỉ xem thôi",
+  "roman": "Tôi chỉ xem thôi",
+  "kr": "또이 찌 쌤 토이"
+ },
+ {
+  "id": "try-on",
+  "text": "Mặc thử được không?",
+  "roman": "Mặc thử được không?",
+  "kr": "막 트 드억 콩?"
+ },
+ {
+  "id": "other-size",
+  "text": "Có cỡ khác không?",
+  "roman": "Có cỡ khác không?",
+  "kr": "꼬 꺼 칵 콩?",
+  "note": "\"size khác(사이 칵)\"이라고 해도 통해요"
+ },
+ {
+  "id": "other-color",
+  "text": "Có màu khác không?",
+  "roman": "Có màu khác không?",
+  "kr": "꼬 마우 칵 콩?"
+ },
+ {
+  "id": "take-this",
+  "text": "Tôi lấy cái này",
+  "roman": "Tôi lấy cái này",
+  "kr": "또이 러이 까이 나이"
+ },
+ {
+  "id": "tax-refund",
+  "text": "Có hoàn thuế không?",
+  "roman": "Có hoàn thuế không?",
+  "kr": "꼬 호안 투에 콩?",
+  "note": "택스 리펀드는 공항 출국 전에 받아요"
+ },
+ {
+  "id": "bag",
+  "text": "Cho tôi xin cái túi",
+  "roman": "Cho tôi xin cái túi",
+  "kr": "쩌 또이 씬 까이 뚜이"
+ },
+ {
+  "id": "receipt",
+  "text": "Cho tôi hóa đơn",
+  "roman": "Cho tôi hóa đơn",
+  "kr": "쩌 또이 화 던"
+ },
+ {
+  "id": "where-is",
+  "text": "○○ ở đâu?",
+  "roman": "○○ ở đâu?",
+  "kr": "○○ 어 더우?"
+ },
+ {
+  "id": "lost",
+  "text": "Tôi bị lạc đường",
+  "roman": "Tôi bị lạc đường",
+  "kr": "또이 비 락 드엉"
+ },
+ {
+  "id": "far",
+  "text": "Từ đây có xa không?",
+  "roman": "Từ đây có xa không?",
+  "kr": "뜨 더이 꼬 싸 콩?"
+ },
+ {
+  "id": "walk",
+  "text": "Đi bộ được không?",
+  "roman": "Đi bộ được không?",
+  "kr": "디 보 드억 콩?"
+ },
+ {
+  "id": "map-show",
+  "text": "Chỉ trên bản đồ giúp tôi",
+  "roman": "Chỉ trên bản đồ giúp tôi",
+  "kr": "찌 쩬 반 도 줍 또이"
+ },
+ {
+  "id": "photo",
+  "text": "Chụp ảnh giúp tôi được không?",
+  "roman": "Chụp ảnh giúp tôi được không?",
+  "kr": "쭙 아잉 줍 또이 드억 콩?",
+  "note": "남부에선 사진을 \"hình(힌)\"이라고도 해요"
+ },
+ {
+  "id": "convenience",
+  "text": "Cửa hàng tiện lợi ở đâu?",
+  "roman": "Cửa hàng tiện lợi ở đâu?",
+  "kr": "끄어 항 띠엔 러이 어 더우?"
+ },
+ {
+  "id": "near-here",
+  "text": "Gần đây có ○○ không?",
+  "roman": "Gần đây có ○○ không?",
+  "kr": "건 더이 꼬 ○○ 콩?",
+  "note": "○○에 찾는 곳을 넣으세요"
+ },
+ {
+  "id": "help",
+  "text": "Cứu tôi với!",
+  "roman": "Cứu tôi với!",
+  "kr": "끄우 또이 버이!"
+ },
+ {
+  "id": "police",
+  "text": "Gọi công an giúp tôi",
+  "roman": "Gọi công an giúp tôi",
+  "kr": "고이 꽁 안 줍 또이",
+  "note": "베트남에선 경찰을 \"công an\"이라고 해요, 신고 번호는 113"
+ },
+ {
+  "id": "hospital",
+  "text": "Bệnh viện ở đâu?",
+  "roman": "Bệnh viện ở đâu?",
+  "kr": "벤 비엔 어 더우?"
+ },
+ {
+  "id": "sick",
+  "text": "Tôi bị ốm",
+  "roman": "Tôi bị ốm",
+  "kr": "또이 비 옴",
+  "note": "남부에선 \"Tôi bị bệnh(또이 비 벤)\"이라고 해요"
+ },
+ {
+  "id": "stomachache",
+  "text": "Tôi bị đau bụng",
+  "roman": "Tôi bị đau bụng",
+  "kr": "또이 비 다우 붕"
+ },
+ {
+  "id": "pharmacy",
+  "text": "Hiệu thuốc ở đâu?",
+  "roman": "Hiệu thuốc ở đâu?",
+  "kr": "히에우 투옥 어 더우?",
+  "note": "남부에선 \"Nhà thuốc(냐 투옥)\"이라고 해요"
+ },
+ {
+  "id": "lost-passport",
+  "text": "Tôi bị mất hộ chiếu",
+  "roman": "Tôi bị mất hộ chiếu",
+  "kr": "또이 비 멋 호 찌에우"
+ },
+ {
+  "id": "stolen",
+  "text": "Tôi bị mất cắp ví",
+  "roman": "Tôi bị mất cắp ví",
+  "kr": "또이 비 멋 깝 비"
+ },
+ {
+  "id": "embassy",
+  "text": "Liên lạc Đại sứ quán Hàn Quốc giúp tôi",
+  "roman": "Liên lạc Đại sứ quán Hàn Quốc giúp tôi",
+  "kr": "리엔 락 다이 쓰 꽌 한 꾸옥 줍 또이"
+ },
+ {
+  "id": "ambulance",
+  "text": "Gọi xe cấp cứu giúp tôi",
+  "roman": "Gọi xe cấp cứu giúp tôi",
+  "kr": "고이 쌔 껍 끄우 줍 또이",
+  "note": "베트남 구급차 번호는 115예요"
+ }
+]

@@ -1,0 +1,94 @@
+id	cat	ko
+hello	인사	안녕하세요
+thanks	인사	감사합니다
+thanks-very	인사	정말 감사합니다
+sorry	인사	죄송합니다
+excuse-me	인사	실례합니다
+yes	인사	네
+no	인사	아니요
+goodbye	인사	안녕히 계세요
+nice-to-meet	인사	만나서 반갑습니다
+im-korean	인사	저는 한국 사람이에요
+dont-understand	인사	잘 모르겠어요
+speak-english	인사	영어 할 수 있어요?
+slowly	인사	천천히 말해 주세요
+again	인사	다시 한번 말해 주세요
+its-ok	인사	괜찮아요
+passport	공항	여권 여기 있어요
+sightseeing	공항	관광하러 왔어요
+stay-days	공항	5일 동안 머물 거예요
+hotel-stay	공항	호텔에 묵을 거예요
+baggage-claim	공항	짐 찾는 곳이 어디예요?
+lost-baggage	공항	제 짐이 안 나왔어요
+exchange	공항	환전은 어디서 해요?
+sim-card	공항	유심 카드 어디서 사요?
+wifi	공항	와이파이 비밀번호가 뭐예요?
+checkin-counter	공항	체크인 카운터가 어디예요?
+taxi-stand	교통	택시 타는 곳이 어디예요?
+go-here	교통	여기로 가 주세요
+how-long	교통	얼마나 걸려요?
+stop-here	교통	여기서 세워 주세요
+meter	교통	미터기 켜 주세요
+station-where	교통	역이 어디예요?
+ticket-one	교통	표 한 장 주세요
+this-train	교통	이 기차 ○○ 가요?
+bus-stop	교통	버스 정류장이 어디예요?
+transfer	교통	어디서 갈아타요?
+airport-go	교통	공항으로 가 주세요
+fare	교통	요금이 얼마예요?
+reservation	호텔	예약했어요
+checkin	호텔	체크인할게요
+checkout	호텔	체크아웃할게요
+checkout-time	호텔	체크아웃은 몇 시예요?
+keep-luggage	호텔	짐 좀 맡아 주세요
+towel	호텔	수건 더 주세요
+aircon-broken	호텔	에어컨이 안 돼요
+no-hot-water	호텔	뜨거운 물이 안 나와요
+room-key	호텔	방 열쇠를 잃어버렸어요
+breakfast-time	호텔	조식은 몇 시예요?
+late-checkout	호텔	늦게 체크아웃할 수 있어요?
+clean-room	호텔	방 청소 해 주세요
+table-two	식당	두 명이에요
+menu-please	식당	메뉴판 주세요
+recommend	식당	추천 메뉴가 뭐예요?
+this-one	식당	이거 주세요
+not-spicy	식당	안 맵게 해 주세요
+no-cilantro	식당	고수 빼 주세요
+allergy	식당	저는 ○○ 알레르기가 있어요
+water	식당	물 주세요
+delicious	식당	맛있어요
+bill	식당	계산서 주세요
+card-ok	식당	카드 돼요?
+takeout	식당	포장해 주세요
+beer	식당	맥주 한 병 주세요
+restroom	식당	화장실이 어디예요?
+separate	식당	따로 계산할게요
+how-much	쇼핑	얼마예요?
+discount	쇼핑	깎아 주세요
+too-expensive	쇼핑	너무 비싸요
+look-around	쇼핑	그냥 구경하는 거예요
+try-on	쇼핑	입어 봐도 돼요?
+other-size	쇼핑	다른 사이즈 있어요?
+other-color	쇼핑	다른 색 있어요?
+take-this	쇼핑	이걸로 할게요
+tax-refund	쇼핑	택스 리펀 돼요?
+bag	쇼핑	봉투 주세요
+receipt	쇼핑	영수증 주세요
+where-is	길묻기	○○ 어디예요?
+lost	길묻기	길을 잃었어요
+far	길묻기	여기서 멀어요?
+walk	길묻기	걸어서 갈 수 있어요?
+map-show	길묻기	지도에서 보여 주세요
+photo	길묻기	사진 좀 찍어 주세요
+convenience	길묻기	편의점이 어디예요?
+near-here	길묻기	이 근처에 있어요?
+help	긴급	도와주세요
+police	긴급	경찰을 불러 주세요
+hospital	긴급	병원이 어디예요?
+sick	긴급	몸이 아파요
+stomachache	긴급	배가 아파요
+pharmacy	긴급	약국이 어디예요?
+lost-passport	긴급	여권을 잃어버렸어요
+stolen	긴급	지갑을 도둑맞았어요
+embassy	긴급	한국 대사관에 연락해 주세요
+ambulance	긴급	구급차를 불러 주세요
