@@ -22,7 +22,7 @@
     const v = pick(await voices(), lang);
     if (!v) return tell(`이 기기에는 ${ln} 음성이 없어요(휴대폰에서는 대부분 들려요)`);
     ss.cancel();
-    const u = new SpeechSynthesisUtterance(say);
+    const u = new SpeechSynthesisUtterance(say.replace(/([^\s/]+)\/[^\s/]+/g, '$1')); // ครับ/ค่ะ 같은 선택지는 앞쪽만 읽기
     u.voice = v; u.lang = v.lang; u.rate = slow ? 0.6 : 0.95;
     document.querySelectorAll('.play button.on').forEach(b => b.classList.remove('on'));
     btn && btn.classList.add('on');
