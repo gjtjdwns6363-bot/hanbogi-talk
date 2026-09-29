@@ -77,7 +77,7 @@ ${head}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5424435978828190" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-19F8RF6971"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","G-19F8RF6971");</script>
 </head>
-<body><header><div class="bar"><a class="logo" href="/">💬 ${NAME}</a>${NAV}</div></header>
+<body><header><div class="bar"><a class="home" href="/" aria-label="홈">🏠</a><a class="logo" href="/">${NAME}</a>${NAV}</div></header>
 <main>
 ${body}
 </main>
@@ -146,7 +146,7 @@ ${faqHtml(qs)}`,
 // ---------- 언어 페이지 ----------
 for (const L of langs) {
   const cats = CATS.filter(c => phrases.some(p => p.cat === c && L.map[p.id]));
-  const secs = cats.map(c => `<section id="c-${c}" class="catsec"><h2>${CAT_ICON[c] || ''} ${c}</h2>${phrases.filter(p => p.cat === c && L.map[p.id]).map(p => phraseCard(L, p.id)).join('')}</section>`).join('');
+  const secs = cats.map(c => `<section id="c-${c}" class="catsec"><h2>${CAT_ICON[c] || ''} ${c}</h2><div class="pgrid">${phrases.filter(p => p.cat === c && L.map[p.id]).map(p => phraseCard(L, p.id)).join('')}</div></section>`).join('');
   const ex = L.map.thanks || Object.values(L.map)[0];
   const qs = [
     [`${L.name} 음성이 안 들려요.`, `이 기기에 ${L.name} 음성(${L.tts})이 없으면 소리가 나지 않아요. 휴대폰에서는 대부분 들리고, 컴퓨터는 운영체제 설정에서 ${L.name} 음성을 추가하면 들립니다.`],
