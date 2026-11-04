@@ -58,10 +58,11 @@ for (const f of html) {
 }
 console.log(`✓ 내부 링크 ${links}개 검사`);
 
-// sitemap: privacy 빼고 전부
+// sitemap: privacy와 noindex 페이지(2026-11-04 팁 없는 언어별 표현) 빼고 전부
 const sm = fs.readFileSync(path.join(ROOT, 'sitemap.xml'), 'utf8');
 const locs = [...sm.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);
-if (locs.length !== html.length - 1) bad(`sitemap URL ${locs.length} ≠ ${html.length - 1}`);
+const want = html.filter(f => !f.endsWith('privacy.html') && !fs.readFileSync(f, 'utf8').includes('content="noindex')).length;
+if (locs.length !== want) bad(`sitemap URL ${locs.length} ≠ ${want}`);
 else console.log(`✓ sitemap URL ${locs.length}개`);
 for (const u of locs) {
   const p = u.replace('https://talk.hanbogi.com', '');

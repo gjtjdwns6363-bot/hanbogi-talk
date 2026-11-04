@@ -19,6 +19,9 @@ const LANGS = [
 ];
 const CAT_ICON = { 인사: '👋', 공항: '🛫', 교통: '🚕', 호텔: '🏨', 식당: '🍜', 쇼핑: '🛍️', 길묻기: '🧭', 긴급: '🚨' };
 const POPULAR = ['thanks', 'hello', 'how-much', 'restroom', 'sorry', 'this-one', 'bill', 'help'];
+// 2026-11-04: 언어별 표현 페이지(/ja/thanks/ 등)는 카드 한 장 + 틀 문구라 /phrase/·언어 페이지와 거의 같다.
+// 현지 팁(note)이 글자 NOTE_MIN자 이상일 때만 색인, 나머지는 noindex,follow + 사이트맵 제외(주소는 그대로 열림)
+const NOTE_MIN = 20;
 
 // ---------- 데이터 ----------
 const phrases = fs.readFileSync(path.join(ROOT, 'data/phrases.tsv'), 'utf8').trim().split('\n').slice(1)
@@ -60,12 +63,12 @@ const NAV = `<details class="menu"><summary>☰ 전체 언어</summary><nav>${LA
 const FOOTER = `<footer>© ${NAME} · <a href="/">전체 언어</a> · <a href="/about.html">사이트 소개·표기 기준</a> · <a href="/privacy.html">개인정보처리방침</a>
 <p class="net">한보기 네트워크: <a href="https://calc.hanbogi.com">한눈 계산기</a> · <a href="https://talk.hanbogi.com">한눈 여행회화</a> · <a href="https://home.hanbogi.com">부동산 알리미</a> · <a href="https://grant.hanbogi.com">정부 지원금 찾기</a> · <a href="https://benefit.hanbogi.com">혜택 알리미</a> · <a href="https://license.hanbogi.com">자격증 한눈에</a> · <a href="https://hanbogi.com">오늘의 게임</a> · <a href="https://stay.hanbogi.com">오늘의 숙소</a> · <a href="https://gadget.hanbogi.com">기기 비교소</a></p></footer>`;
 
-function page({ url, title, desc, body, head = '', ogTitle }) {
+function page({ url, title, desc, body, head = '', ogTitle, noindex }) {
   return `<!doctype html>
 <html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="naver-site-verification" content="57e798764c5c0e2131487475e7707cc966fa54ba">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
-<link rel="canonical" href="${SITE}${url}">
+<link rel="canonical" href="${SITE}${url}">${noindex ? '\n<meta name="robots" content="noindex,follow">' : ''}
 <meta property="og:title" content="${esc(ogTitle || title)}">
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:url" content="${SITE}${url}">
@@ -177,7 +180,7 @@ ${faqHtml(qs)}
       [`'${r.kr}' 발음은 어떻게 들어요?`, `이 페이지의 ▶ 듣기 버튼을 누르면 브라우저 ${L.name} 음성으로 읽어 줍니다. 🐢 천천히 버튼은 느린 속도로 들려줘요.`],
     ];
     emit(`/${L.code}/${p.id}/`, page({
-      url: `/${L.code}/${p.id}/`, title: `${L.name}로 '${p.ko}' — ${r.kr} 발음·듣기`,
+      url: `/${L.code}/${p.id}/`, title: `${L.name}로 '${p.ko}' — ${r.kr} 발음·듣기`, noindex: (r.note || '').replace(/[\s\p{P}\p{S}]/gu, '').length < NOTE_MIN,
       desc: `${L.name}로 '${p.ko}'는 ${r.text}${rom(r) ? `(${r.roman})` : ''}, 한국어 발음은 '${r.kr}'. ${p.cat} 상황에서 쓰는 ${L.name} 표현을 음성으로 들어 보세요.${r.note ? ' ' + r.note : ''}`.slice(0, 160),
       head: crumbs([['홈', '/'], [L.name, `/${L.code}/`], [p.ko, `/${L.code}/${p.id}/`]]) + faq(qs),
       body: `<nav class="bc"><a href="/">홈</a> › <a href="/${L.code}/">${L.name}</a> › <a href="/${L.code}/#c-${p.cat}">${p.cat}</a></nav>
@@ -241,10 +244,11 @@ for (const [url, html] of out) {
   fs.mkdirSync(path.dirname(f), { recursive: true });
   fs.writeFileSync(f, html);
 }
+const smUrls = out.filter(([u, html]) => u !== '/privacy.html' && !html.includes('content="noindex')).map(([u]) => u);
 fs.writeFileSync(path.join(ROOT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${out.filter(([u]) => u !== '/privacy.html').map(([u]) => `<url><loc>${SITE}${u}</loc><lastmod>${TODAY}</lastmod></url>`).join('\n')}
+${smUrls.map((u) => `<url><loc>${SITE}${u}</loc><lastmod>${TODAY}</lastmod></url>`).join('\n')}
 </urlset>
 `);
 fs.writeFileSync(path.join(ROOT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE}/sitemap.xml\n`);
-console.log(`언어 ${langs.length}개(${langs.map(L => `${L.code}:${L.count}`).join(' ')}) · 페이지 ${out.length}개 · sitemap ${out.length - 1}개`);
+console.log(`언어 ${langs.length}개(${langs.map(L => `${L.code}:${L.count}`).join(' ')}) · 페이지 ${out.length}개 · sitemap ${smUrls.length}개`);
