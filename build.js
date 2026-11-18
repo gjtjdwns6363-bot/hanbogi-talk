@@ -77,7 +77,7 @@ function page({ url, title, desc, body, head = '', ogTitle, noindex }) {
 <meta name="theme-color" content="#2f3aa6">
 ${head}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon-32.png" sizes="32x32"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="stylesheet" href="/style.css">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5424435978828190" crossorigin="anonymous"></script>
+<!-- adsense-off 2026-11-18: 애드센스 심사 중 제거, 승인 후 복원 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-19F8RF6971"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","G-19F8RF6971");</script>
 </head>
 <body><header><div class="bar"><a class="home" href="/" aria-label="홈">🏠</a><a class="logo" href="/">${NAME}</a>${NAV}</div></header>
